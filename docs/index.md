@@ -27,13 +27,13 @@ Plantilla digital para documentar, interpretar y comunicar el trabajo práctico 
 
 | Campo | Registro |
 |---|---|
-| Nombre y apellidos | **[Escribe aquí]** |
+| Nombre y apellidos | ** Natalia Carrasco Jiménez ** |
 | Grupo | **[Escribe aquí]** |
-| Módulo profesional | **[Escribe aquí]** |
-| Curso académico | **[2026–2027]** |
-| Centro educativo | **[Escribe aquí]** |
-| Profesor/a | **[Escribe aquí]** |
-| Fecha de inicio | **[dd/mm/aaaa]** |
+| Módulo profesional | ** Laboratorio Clínico y Biomédico ** |
+| Curso académico | ** 2LCB ** |
+| Centro educativo | ** IES.Sáenz de Buruaga ** |
+| Profesor/a | ** Antonio José ** |
+| Fecha de inicio | ** 17-09-2026 ** |
 
 ## Cómo utilizar este cuaderno
 
