@@ -138,7 +138,7 @@ No había zona especifica de recepción de la muestra ,y tampoco había una señ
 
 | Riesgo o fuente de contaminación | Consecuencia posible | Medida preventiva seleccionada |
 |---|---|---|
-| No existe kit de derrames|Uso de material incorrecto ante un derrame |Comprar o formar un kit de derrames |
+| No existe kit de derrames|Uso de material incorrecto ante un derrame |Comprar o formar un kit de derrames|
 | No existe zona de recepción de la muestra |Contaminación del resto de objetos que hay en la mesa|Hacer una zona donde poder recepcionar las muestras|
 | No hay protocolo |No saber como actuar ante un incidente o accidente|Realizar un protocolo donde recoja la información necesaria |
 
