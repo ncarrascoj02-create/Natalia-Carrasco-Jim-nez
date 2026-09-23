@@ -158,9 +158,10 @@ No había zona especifica de recepción de la muestra ,y tampoco había una señ
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Zona y señalización analizadas | No hay señalización |Se observa que este laboratorio no dispone de señalización |Este resultado es válido parcialmente|El resultado es válido parcialmente debido a que no hay señalización |  
-| Recepción e identificación trazables | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Derrame contenido y descontaminado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Zona y señalización analizadas |Se observa que este laboratorio no dispone de señalización |Este resultado es válido parcialmente|El resultado es válido parcialmente debido a que no hay 
+señalización |  
+| Recepción e identificación trazables | [Complet | [Sí / No / Parcialmente] | [Completa] |
+| Derrame contenido y descontaminado | | [Sí / No / Parcialmente] | [Completa] |
 | Residuos procesados y eliminados correctamente | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Registro y comunicación final | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 
@@ -178,7 +179,7 @@ Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepc
 
 ![Preparación o selección de EPI](../assets/P01/preparacion_o_seleccion_de_epi_01.jpg)
 
-- **Pie de foto:** Se observan dos EPIs.guantes y bata
+- **Pie de foto:** Se observan dos EPIs:guantes y bata
 - **Autoría y origen:** Propia
 - **Momento del procedimiento:** [Completa]
 
