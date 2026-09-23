@@ -146,11 +146,11 @@ No había zona especifica de recepción de la muestra ,y tampoco había una señ
 
 | Elemento | ¿Se utilizó? | Justificación técnica |
 |---|---|---|
-| Bata u otra prenda de protección | Sí ,para protegernos ante salpicaduras
-| Guantes | Sí ,para proteger las manos como medida general.
-| Protección ocular o facial | No
-| Higiene de manos | Sí ,al principio y al finalizar la práctica.Y si es necesario entre medias,con agua y jabón y secado de manos.
-| Otra barrera o medida | Ninguna otra barrera,porque en esta practica no ha sido necesario.
+| Bata u otra prenda de protección | Sí|Para protegernos ante salpicaduras|
+| Guantes | Sí |Para proteger las manos como medida general|
+| Protección ocular o facial | No|Esta práctica no lo requiere|
+| Higiene de manos | Sí |Al principio y al finalizar la práctica.Y si es necesario entre medias ,con agua y jabón y secado de manos|
+| Otra barrera o medida | Ninguna otra barrera | Porque en esta practica no ha sido necesario|
 
 ## 9. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -160,16 +160,14 @@ No había zona especifica de recepción de la muestra ,y tampoco había una señ
 |---|---|---|---|
 | Zona y señalización analizadas |Se observa que este laboratorio no dispone de señalización |Este resultado es válido parcialmente|El resultado es válido parcialmente debido a que no hay 
 señalización |  
-| Recepción e identificación trazables | [Complet | [Sí / No / Parcialmente] | [Completa] |
-| Derrame contenido y descontaminado | | [Sí / No / Parcialmente] | [Completa] |
-| Residuos procesados y eliminados correctamente | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Registro y comunicación final | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Recepción e identificación trazables | Se observa una buena identificación con el lugar,hora y demás datos | Sí | Está muestra contiene todos los datos necesarios |
+| Derrame contenido y descontaminado | Se observa que hemos querido el derrame con papel absorbente y desinfectante | Sí | Creo que la descontaminación ha sido la correcta,ya que no es un liquido peligroso ni contagioso  |
+| Residuos procesados y eliminados correctamente | El papel utilizado como absorbente se elimina en el contenedor que corresponde | Sí | El residuo generado es asimilable a urbano y es poca cantidad |
+| Registro y comunicación final | Se registra la información de la muestra | Sí | Queda registrada la información  |
 
 ### 9.2 Resultado principal de la práctica
 
-Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepción, aceptar o aislar una muestra, responder a un derrame, gestionar residuos y documentar una actuación segura.
-
-[Escribe aquí el resultado principal.]
+Mis evidencias demuestran que sé actuar de forma segura y organizada en el laboratorio,puedo recibir y aceptar de manera correcta una muestra,comprobar que cumple todo lo necesario,actuar ante un derrame,gestionar los residuos y documentar el procedimiento.
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -181,13 +179,13 @@ Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepc
 
 - **Pie de foto:** Se observan dos EPIs:guantes y bata
 - **Autoría y origen:** Propia
-- **Momento del procedimiento:** [Completa]
+- **Momento del procedimiento:** Primero nos hemos lavado las manos y nos hemos puesto los EPIS(bata y guantes).Una vez hecho lo anterior hemos recibido la muestra en la mesa de trabajo,en una bandeja con su papel de filtro.Observamos que estén todos los datos necesarios,el envase es el adecuado y esta en perfectas condiciones.Al abrir el bote es cuando se ha producido un derrame y hemos tenido que limpiarlo y desinfectar.Al finalizar retirada de EPIS y lavado de manos.
 
 ### Imagen 2 — Recepción correcta de la muestra
 
 ![Recepción correcta de la muestra](../assets/P01/recepcion_correcta_de_la_muestra_02.jpg)
 
-- **Pie de foto:** [Qué se observa: documentación, identificación, integridad, recipiente secundario o zona de recepción]
+- **Pie de foto:** Observamos que el envase esta correcto y contiene la documentación necesaria.
 - **Comprobación técnica asociada:** [Explica por qué la recepción es conforme o por qué la muestra se aislaría]
 - **Momento del procedimiento:** [Completa]
 
@@ -219,7 +217,7 @@ Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepc
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+|No hay zona de recepción de muestras y por lo tanto tampoco hay señalización| Este laboratorio no está atorado por zonas | Propuesta:habilitar una zona de recepción  | En este caso no afecto al resultado |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -258,9 +256,9 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P01` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 23-09-2026 |
 | UD / RA / CE | `UD1 / RA01 / CE01.a–CE01.i` |
-| Agrupamiento | [Individual / pareja / equipo; especifica] |
+| Agrupamiento | individual |
 | Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
 | Controles | [Resume o enlaza al apartado 9] |
 | Resultado | [Resume o enlaza al apartado 9.2] |
