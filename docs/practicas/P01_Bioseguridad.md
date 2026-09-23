@@ -119,40 +119,38 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 ## 6. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja o equipo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Simulación con material limpio / material real con autorización / actividad documental / otra; descríbela]
-- **Tipo de muestra o simulante utilizado:** [Describe el material seguro; no incluyas datos personales ni identificadores clínicos]
-- **Código o identificación de la muestra:** [Completa sin datos personales]
+- **Nombre y apellidos:** Natalia Carrasco Jiménez
+- **Fecha real de realización:** 23-09-2026
+- **Grupo:** 2.Laboratorio Clínico y Biomédico
+- **Pareja o equipo, si procede:** Trabajo individual 
+- **Rol o tarea principal que realizaste:** He realizado yo toda la práctica. 
+- **Modalidad realmente realizada:** Simulación con material limpio
+- **Tipo de muestra o simulante utilizado:** Agua estancada 
+- **Código o identificación de la muestra:** Sin código
 
 ## 7. Preparación del puesto y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 7.1 Observación del espacio
 
-Describe brevemente cómo estaba organizado el puesto, qué señalización observaste y qué elementos consideraste relevantes para trabajar con seguridad.
-
-[Escribe aquí tu observación inicial.]
+No había zona especifica de recepción de la muestra ,y tampoco había una señalización, la muestra la recibimos en la mesa normal de trabajo en una bandeja.
 
 ### 7.2 Riesgos identificados
 
 | Riesgo o fuente de contaminación | Consecuencia posible | Medida preventiva seleccionada |
 |---|---|---|
-| [Completa] | [Completa] | [Completa] |
-| [Completa] | [Completa] | [Completa] |
-| [Completa] | [Completa] | [Completa] |
+| No existe kit de derrames|Uso de material incorrecto ante un derrame |Comprar o formar un kit de derrames |
+| No existe zona de recepción de la muestra |Contaminación del resto de objetos que hay en la mesa|Hacer una zona donde poder recepcionar las muestras|
+| No hay protocolo |No saber como actuar ante un incidente o accidente|Realizar un protocolo donde recoja la información necesaria |
 
 ### 7.3 EPI y barreras seleccionados
 
 | Elemento | ¿Se utilizó? | Justificación técnica |
 |---|---|---|
-| Bata u otra prenda de protección | [Sí / No / No aplicaba] | [Completa] |
-| Guantes | [Sí / No / No aplicaba] | [Completa] |
-| Protección ocular o facial | [Sí / No / No aplicaba] | [Completa] |
-| Higiene de manos | [Describe cuándo y cómo] | [Completa] |
-| Otra barrera o medida | [Completa] | [Completa] |
+| Bata u otra prenda de protección | Sí ,para protegernos ante salpicaduras
+| Guantes | Sí ,para proteger las manos como medida general.
+| Protección ocular o facial | No
+| Higiene de manos | Sí ,al principio y al finalizar la práctica.Y si es necesario entre medias,con agua y jabón y secado de manos.
+| Otra barrera o medida | Ninguna otra barrera,porque en esta practica no ha sido necesario.
 
 ## 9. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -160,7 +158,7 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Zona y señalización analizadas | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Zona y señalización analizadas | No hay señalización |Se observa que este laboratorio no dispone de señalización |Este resultado es válido parcialmente|El resultado es válido parcialmente debido a que no hay señalización |  
 | Recepción e identificación trazables | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Derrame contenido y descontaminado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Residuos procesados y eliminados correctamente | [Completa] | [Sí / No / Parcialmente] | [Completa] |
@@ -180,8 +178,8 @@ Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepc
 
 ![Preparación o selección de EPI](../assets/P01/preparacion_o_seleccion_de_epi_01.jpg)
 
-- **Pie de foto:** [Qué se observa y qué medida preventiva demuestra]
-- **Autoría y origen:** [Propia / compartida con tu pareja / material docente autorizado]
+- **Pie de foto:** Se observan dos EPIs.guantes y bata
+- **Autoría y origen:** Propia
 - **Momento del procedimiento:** [Completa]
 
 ### Imagen 2 — Recepción correcta de la muestra
