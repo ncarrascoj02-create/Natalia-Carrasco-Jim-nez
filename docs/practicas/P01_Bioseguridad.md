@@ -217,7 +217,7 @@ Mis evidencias demuestran que sé actuar de forma segura y organizada en el labo
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-|No hay zona de recepción de muestras y por lo tanto tampoco hay señalización| Este laboratorio no está atorado por zonas | Propuesta:habilitar una zona de recepción  | En este caso no afecto al resultado |
+|No hay zona de recepción de muestras y por lo tanto tampoco hay señalización| Este laboratorio no está separado por zonas | Propuesta:habilitar una zona de recepción  | En este caso no afecto al resultado |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
