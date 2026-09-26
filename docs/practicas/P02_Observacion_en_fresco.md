@@ -131,9 +131,9 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 - **Nombre y apellidos:** Natalia Carrasco Jiménez
 - **Fecha real de realización:** 24-09-2026
 - **Grupo:** 2.Laboratorio clínico y biomédico
-- **Pareja de trabajo, si procede:** Práctica individual
-- **Rol o tarea principal que realizaste:** He realizado yo toda la práctica 
-- **Modalidad realmente realizada:** Muestra ambiental autorizada[Muestra ambiental autorizada
+- **Pareja de trabajo, si procede:** Práctica en pareja
+- **Rol o tarea principal que realizaste:** He realizado yo toda la práctica porque cada una tenia su muestra de agua aunque la hayamos hecho en pareja.
+- **Modalidad realmente realizada:** Muestra ambiental autorizada
 - **Código o descripción de la muestra/material docente:** Sin código
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -142,17 +142,14 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | [Completa] |
+| Autorización o modalidad segura de la muestra | La muestra fue aceptada |
 | Estado del portaobjetos y cubreobjetos | Están en buen estado |
 | Material y equipo efectivamente utilizados | Muestra de agua,portaobjetos,cubreobjetos,pipeta pasteur,microscopio |
-| Aumento(s) utilizado(s) | [Completa] |
-| Medidas de seguridad aplicadas | [Completa] |
+| Aumento(s) utilizado(s) | 4x,10x,40x |
+| Medidas de seguridad aplicadas | Bata,guantes,higiene de manos,limpieza del área de trabajo,correcta eliminación de los residuos |
 
 ### 8.2 Hipótesis u observación inicial
-
-Antes de observar, indica qué esperas encontrar o qué características crees que podrían ser relevantes para la muestra. Si trabajaste con material docente o un vídeo, formula la hipótesis a partir de la información disponible.
-
-[Escribe aquí tu hipótesis u observación inicial.]
+Antes de observar la muestra, esperaba encontrar diferentes microorganismos y partículas, debido a que se trataba de agua estancada.También esperaba observar formas y movimientos diferentes al microscopio.
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -262,12 +259,12 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 | Campo | Registro del alumnado |
 |---|---|
-| Identificador de práctica | `P02` |
+| Identificador de práctica | P02 |
 | Fecha |24-09-2026 |
-| UD / RA / CE | `UD2 / RA02 / CE02.a, CE02.c, CE02.f, CE02.g` |
-| Agrupamiento | Individual |
+| UD / RA / CE | UD2 / RA02 / CE02.a, CE02.c, CE02.f, CE02.g` |
+| Agrupamiento | En pareja |
 | Modalidad y origen de la muestra o evidencia | [Completa] |
-| Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
+| Materiales o lotes relevantes |No aplicaba |
 | Controles | [Resume o enlaza al apartado 9.1] |
 | Resultado | [Resume o enlaza al apartado 9.3] |
 | Interpretación | [Resume o enlaza al apartado 12] |
