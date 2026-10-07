@@ -117,9 +117,9 @@ Etiqueta/ficha del BHI → cálculo para 50 mL → pesada y reconstitución con 
 - **Nombre y apellidos:** Natalia Carrasco Jiménez
 - **Fecha real de realización:** 7-10-2026
 - **Grupo:** Laboratorio Clínico y Biomédico
-- **Equipo de trabajo, si procede:** En pareja,con Cristina LLamazares Santiago
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Preparación completa supervisada / preparación sin autoclave / demostración de esterilización / análisis documental / otra; descríbela]
+- **Equipo de trabajo, si procede:** Natalia,Pablo,Diana y Cristina Llamazares.
+- **Rol o tarea principal que realizaste:** Preparar el material,calentar el agua y pipetear la mezcla a los tubos.
+-  **Modalidad realmente realizada:** [Preparación completa supervisada / preparación sin autoclave / demostración de esterilización / análisis documental / otra; descríbela]
 - **Medio preparado:** Caldo BHI; [indica fabricante, referencia y lote]
 - **Preparación prevista por grupo:** 50 mL según la etiqueta/ficha; seis tubos de 8 mL antes de esterilizar.
 
