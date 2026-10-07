@@ -117,10 +117,10 @@ Etiqueta/ficha del BHI → cálculo para 50 mL → pesada y reconstitución con 
 - **Nombre y apellidos:** Natalia Carrasco Jiménez
 - **Fecha real de realización:** 7-10-2026
 - **Grupo:** Laboratorio Clínico y Biomédico
-- **Equipo de trabajo, si procede:** Natalia,Pablo,Diana y Cristina Llamazares.
+- **Equipo de trabajo, si procede:** Grupo:Natalia,Pablo,Diana y Cristina Llamazares.
 - **Rol o tarea principal que realizaste:** Preparar el material,calentar el agua y pipetear la mezcla a los tubos.
--  **Modalidad realmente realizada:** [Preparación completa supervisada / preparación sin autoclave / demostración de esterilización / análisis documental / otra; descríbela]
-- **Medio preparado:** Caldo BHI; [indica fabricante, referencia y lote]
+-  **Modalidad realmente realizada:** Preparación completa supervisada con autoclave
+- **Medio preparado:** Caldo BHI; Fabricante:laboratorio conda S.A.Referencia:no tiene.Lote:608301
 - **Preparación prevista por grupo:** 50 mL según la etiqueta/ficha; seis tubos de 8 mL antes de esterilizar.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -131,14 +131,14 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | Papel de filtro,1 vaso de precipitado,1 cucharailla,6 tubos de vidrio,6 tapones de aluminio y algodón,papel de aluminio,pera y pipeta,1 gradilla |
+| Equipos | Balanza,microondas y autoclave |
+| Reactivos/materiales | Caldo BHI y agua destilada |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
-
+| Papel de filtro y papel de aluminio | Residuo urbano/asimilable a urbano |
+|Caldo BHI sobrante | Biológico o infeccioso |
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 9.1 Registro de observaciones y cálculos
@@ -147,9 +147,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Copia la dosis del BHI y su fuente; calcula la masa para 50 mL, registra la masa pesada y comprueba 6 × 8 = 48 mL y el margen de 2 mL] |
-| Configuración de equipos (si procede) | [Identifica balanza y material de dispensación; registra autoclave, ciclo, temperatura, tiempo y controles reales, o indica qué procede de demostración/documentación] |
-| Características del producto o resultado final | [Indica número de tubos, volumen dispensado por tubo, aspecto del BHI, integridad y etiquetas; sobrante/pérdidas observados, origen de la evidencia y estado de los controles] |
+| Cálculos (si procede) | Dosis:37g/L de BHI.Volumen a preparar:50 ml.Cálculo:(37g x 50 ml)/1000ml=1,85g.Masa teórica:1,85g.Masa realmente pesada:en g.Comprobación del volumen:6x8mL=48 ml.Margen:50-48=2 ml |
+| Configuración de equipos (si procede) | Marca de la balanza:pocket scale.Mterial de dispensación:pipeta y cucharilla.Autoclave:marca:Presoclave III Plus,ciclo:4,temperatur:121 grados,tiempo:15 minutos,controles reales:registro del autoclave y aspecto organoléptico |
+| Características del producto o resultado final | 6 tubos de vídrio,en cada tubo 8 ml de la mezcla,el aspecto era líquido de color amarillo,evidencia,y si hay origen de la evidencia,control organoléptico después de la salida del autoclave,y debemos comprobar que no han perdido volumen,el aspecto y el color |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
