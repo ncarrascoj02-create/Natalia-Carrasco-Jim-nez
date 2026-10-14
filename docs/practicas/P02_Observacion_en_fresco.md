@@ -185,7 +185,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 ### Imagen 1 — Preparación húmeda sin concentración
 
- ![Preparación húmeda sin concentración](../assets/P02/01_sin_concentración.jpg)
+ ![Preparación húmeda sin concentración](../assets/P02/01_preparacion_sin_concentracion.jpg)
 (../assets/P02/01_preparacion_sin_concentracion.jpg`
 - **Texto alternativo:** Preparación húmeda directa de la muestra de agua estancada sobre el portaobjetos.
 - **Pie de foto:** [Describe el depósito de la gota y la colocación del cubreobjetos; indica el origen autorizado de la muestra.]
