@@ -207,7 +207,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 ### Imagen 4 — Campo microscópico de la preparación concentrada
 
-[Campo microscópico de la preparación concentrada](../assets/P02/04_campo_concentrada.jpg)../assets/P02/04_campo_concentrado.jpg`
+[Campo microscópico de la preparación concentrada](../assets/P02/04_campo_concentrado.jpg)../assets/P02/04_campo_concentrado.jpg`
 - **Texto alternativo:** Campo microscópico de la preparación obtenida tras centrifugación con un hallazgo señalado.
 - **Pie de foto:** [Describe el hallazgo y registra el aumento; indica que procede de la preparación concentrada.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
