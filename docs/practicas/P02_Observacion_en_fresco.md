@@ -193,7 +193,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 ### Imagen 2 — Campo microscópico de la preparación sin concentración
 
-- **Archivo previsto:** `../assets/P02/02_campo_sin_concentracion.jpg`
+![Campo microscópico de la preparación sin concentración](../assets/P02/02_campo_sin_concentracion.jpg)../assets/P02/02_campo_sin_concentracion.jpg`
 - **Texto alternativo:** Campo microscópico de la preparación directa con un hallazgo señalado.
 - **Pie de foto:** [Describe el hallazgo y registra el aumento utilizado; evita una identificación no confirmada.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
