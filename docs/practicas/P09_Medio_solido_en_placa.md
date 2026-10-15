@@ -200,7 +200,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 Interpreta si las placas obtenidas cumplen los criterios de fórmula, gelificación, homogeneidad, dispensación, identificación y control previstos. Explica qué evidencia sostiene esa valoración, qué resultado debe mantenerse pendiente hasta completar el control de esterilidad y por qué una placa aparentemente correcta no garantiza por sí sola su aptitud para uso posterior.
 
-interpretación técnica: las placas obtenidas presentan un medio de cultivo de color ámbar y aparentemente homogéneo. Sin embargo, la práctica no cumple completamente los criterios de dispensación, ya que deberíamos haber preparado seis placas en vez de cuatro placas, debido a un reparto incorrecto del medio de cultivo.
+Interpretación técnica: las placas obtenidas presentan un medio de cultivo de color ámbar y aparentemente homogéneo. Sin embargo, la práctica no cumple completamente los criterios de dispensación, ya que deberíamos haber preparado seis placas en vez de cuatro placas, debido a un reparto incorrecto del medio de cultivo.
 
 Fórmula : debe comprobarse que el medio se ha preparado con los componentes y las cantidades indicadas.
 Calidad: el medio presenta un aspecto aparentemente adecuado, aunque todavía debemos verificar sus condiciones.
@@ -246,10 +246,20 @@ La destreza adquirida en el manejo estéril durante el vertido del medio cultivo
 | Agrupamiento | En pareja,con Cristina Llamazares Santiago |
 | Medio, fórmula, volumen y número de placas | Agar nutritivo fabricante:Condalab;dosis según etiqueta:23g; 125 mL objetivo; número real de placas:4 placas |
 | Componentes, lotes y caducidades relevantes | [Producto en polvo, fabricante:Condalab, lote:11131, caducidad:11/2024 y dosis consultada:23g |
-| Controles | [Resume o enlaza al apartado 9.1] |
+| Controles |  | Cálculos (si procede) | [Transcribe la dosificación del fabricante (g/L) y calcula:Dosis del fabricante:23g.Cálculos:MASA DE POLVO(g)= dosificación indicada (g/l) x 0,125;23 x 0,125= 2,875g.Medición del agua:125ml|
+| Configuración de equipos (si procede) | Marca de balanza:Pocket Scale.Calentamiento en microondas.4 minutos incluido la ebullición.Autoclave:1 hora a 121 grados.Agitación con varilla:2 minutos. |
+| Características del producto o resultado final | Volumen preparado:125 ml, placas obtenidas:4 de 6 que tendríamos que haber rellenado.Aspecto:color amarillento.Gelificación:correcta din grumos.Identificación:correcta,con fecha del día,datos de identificación y nombre del medio de cultivo.Origen de datos:son propios de la práctica y de la etiqueta del fabricante y controles pendientes:ninguno |
 | Resultado | [Resume o enlaza al apartado 9] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
+| Interpretación | Interpretación técnica: las placas obtenidas presentan un medio de cultivo de color ámbar y aparentemente homogéneo. Sin embargo, la práctica no cumple completamente los criterios de dispensación, ya que deberíamos haber preparado seis placas en vez de cuatro placas, debido a un reparto incorrecto del medio de cultivo.
+
+Fórmula : debe comprobarse que el medio se ha preparado con los componentes y las cantidades indicadas.
+Calidad: el medio presenta un aspecto aparentemente adecuado, aunque todavía debemos verificar sus condiciones.
+Homogeneidad: el medio parece tener un color uniforme, sin alteraciones y visibles importantes.
+Dispensación: no es correcta, no hemos repartido bien el medio para llenar las seis placas previstas.
+Identificación: las placas están bien identificadas con el nombre del medio, la fecha y datos de identificación.
+Control previsto: queda pendiente, comprobar la esterilidad mediante el procedimiento establecido.
+El control de esterilidad debe mantenerse pendiente hasta comprobar que no aparece crecimiento microbiano durante el tiempo y las condiciones de incubación establecidos. Aunque las placas parezcan correctas, no garantiza que estén libres de microorganismos, contaminantes o actas para su uso posterior |
+| Incidencias y acciones correctoras |Obtenemos 4 placas en vez de 6 | No se ha realizado bien el trasvase del medio a las placas | Propuesta:para la próxima vez repartir bien el medio en cada placa para que de para todas |Sí,ahora disponemos solo de 4 placas en vez de 6 |   
 | Ruta de residuos y conservación | Papel de filtro y resto de medio de cultivo;ambos son asimilables a urbano |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
