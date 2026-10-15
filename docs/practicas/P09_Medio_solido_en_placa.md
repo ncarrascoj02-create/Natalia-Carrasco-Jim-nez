@@ -194,19 +194,27 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+|Obtenemos 4 placas en vez de 6 | No se ha realizado bien el trasvase del medio a las placas | Propuesta:para la próxima vez repartir bien el medio en cada placa para que de para todas |Sí,ahora disponemos solo de 4 placas en vez de 6 |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta si las placas obtenidas cumplen los criterios de fórmula, gelificación, homogeneidad, dispensación, identificación y control previstos. Explica qué evidencia sostiene esa valoración, qué resultado debe mantenerse pendiente hasta completar el control de esterilidad y por qué una placa aparentemente correcta no garantiza por sí sola su aptitud para uso posterior.
 
-[Escribe aquí tu interpretación técnica.]
+interpretación técnica: las placas obtenidas presentan un medio de cultivo de color ámbar y aparentemente homogéneo. Sin embargo, la práctica no cumple completamente los criterios de dispensación, ya que deberíamos haber preparado seis placas en vez de cuatro placas, debido a un reparto incorrecto del medio de cultivo.
+
+Fórmula : debe comprobarse que el medio se ha preparado con los componentes y las cantidades indicadas.
+Calidad: el medio presenta un aspecto aparentemente adecuado, aunque todavía debemos verificar sus condiciones.
+Homogeneidad: el medio parece tener un color uniforme, sin alteraciones y visibles importantes.
+Dispensación: no es correcta, no hemos repartido bien el medio para llenar las seis placas previstas.
+Identificación: las placas están bien identificadas con el nombre del medio, la fecha y datos de identificación.
+Control previsto: queda pendiente, comprobar la esterilidad mediante el procedimiento establecido.
+El control de esterilidad debe mantenerse pendiente hasta comprobar que no aparece crecimiento microbiano durante el tiempo y las condiciones de incubación establecidos. Aunque las placas parezcan correctas, no garantiza que estén libres de microorganismos, contaminantes o actas para su uso posterior.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 ¿En qué medida el procedimiento y el medio obtenido permiten considerar alcanzado el objetivo de preparar 125 mL de Agar nutritivo en placa? Justifica tu valoración relacionándola con el resultado y señala cualquier limitación que condicione su uso.
 
-[Escribe aquí tu conclusión.]
+El objetivo de preparar 125 ml de Agar nutritivo en placa se ha alcanzado parcialmente, ya que sostuvo el medio de cultivo con un aspecto aparentemente homogéneo y un color ámbar adecuado, pero solo se pudieron llenar cuatro placas en vez de las seis previstas debido a un reparto incorrecto del medio. Además, queda pendiente comprobar la esterilidad del medio, por lo que no se puede garantizar todavía su actitud para el uso microbiológico.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -214,35 +222,35 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué decisión sobre la fórmula, el agente gelificante o la dispensación consideras más crítica para obtener placas de calidad y cómo comprobaste que se realizó correctamente?
 
-   [Respuesta del alumnado]
+   la decisión más crítica fue la dispensación del medio de cultivo, no se repartió correctamente y solo se pudieron llenar cuatro placas. Para comprobar que se realizó correctamente, se debería verificar que el volumen se distribuyó de forma uniforme y que todas las placas tenían una cantidad suficiente del medio. En esta práctica, el resultado demuestra que la dispensación no es adecuada. Aunque el medio presentaba un aspecto homogéneo y un color ámbar, también es necesario comprobar la fórmula, la solidificación y la esterilidad antes de utilizar las placas. 
 
-2. **Interpretación:** ¿Cómo interpretas la presencia de condensación excesiva en la tapa de las placas tras su solidificación, y qué impacto negativo puede tener en el momento de realizar una siembra por extensión o estría?
+3. **Interpretación:** ¿Cómo interpretas la presencia de condensación excesiva en la tapa de las placas tras su solidificación, y qué impacto negativo puede tener en el momento de realizar una siembra por extensión o estría?
 
-   [Respuesta del alumnado]
+   la presencia de condensación en la tapa de las placas indica que puede haber habido cambios de temperatura durante la solidificación o enfriamiento del medio. Esta condensación puede provocar que las gotas caigan sobre la nutritivo y dispersen el inóculo, dificultando la siembra, por extensión o estrías, alterando la distribución de los microorganismos y favoreciendo esa mezcla de colonias. Como consecuencia, puede dificultar el aislamiento de colonias individuales y por lo tanto, la interpretación de los resultados.
 
-3. **Conclusiones:** ¿Qué datos mínimos de trazabilidad deben figurar obligatoriamente en el etiquetado de cada placa (o paquete de placas) para garantizar su correcta identificación y control de calidad a largo plazo?
+5. **Conclusiones:** ¿Qué datos mínimos de trazabilidad deben figurar obligatoriamente en el etiquetado de cada placa (o paquete de placas) para garantizar su correcta identificación y control de calidad a largo plazo?
 
-   [Respuesta del alumnado]
+   en nuestro caso, el etiquetado de las placas contiene la fecha del día que se ha realizado, datos identificativo de las personas que lo hemos realizado y el nombre del medio de cultivo utilizado. También se pueden incluir otros datos como el número de la muestra, lote del medio,condiciones de incubación si procede.
 
-4. **Aprendizaje y transferencia:** ¿De qué manera la destreza adquirida en el manejo estéril durante el vertido de placas influirá en la precisión de tus futuras técnicas de inoculación y siembra?
+6. **Aprendizaje y transferencia:** ¿De qué manera la destreza adquirida en el manejo estéril durante el vertido de placas influirá en la precisión de tus futuras técnicas de inoculación y siembra?
 
-   [Respuesta del alumnado]
+La destreza adquirida en el manejo estéril durante el vertido del medio cultivo nos ayudará a evitar contaminación y a preparar placas de forma correcta. Esto mejorará la precisión de futuras técnicas de inoculación y siembra favoreciendo los resultados.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P09` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 15-10-2026 |
 | UD / RA / CE | `UD3 / RA03 / CE03.a–CE03.h` |
-| Agrupamiento | [Individual / equipo; especifica] |
-| Medio, fórmula, volumen y número de placas | [Agar nutritivo comercial; fabricante/dosis según etiqueta; 125 mL objetivo; número real de placas] |
-| Componentes, lotes y caducidades relevantes | [Producto en polvo, fabricante, lote, caducidad y dosis consultada] |
+| Agrupamiento | En pareja,con Cristina Llamazares Santiago |
+| Medio, fórmula, volumen y número de placas | Agar nutritivo fabricante:Condalab;dosis según etiqueta:23g; 125 mL objetivo; número real de placas:4 placas |
+| Componentes, lotes y caducidades relevantes | [Producto en polvo, fabricante:Condalab, lote:11131, caducidad:11/2024 y dosis consultada:23g |
 | Controles | [Resume o enlaza al apartado 9.1] |
 | Resultado | [Resume o enlaza al apartado 9] |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos y conservación | [Según PNT local; completa modalidad y ubicación, sin inferir condiciones] |
+| Ruta de residuos y conservación | Papel de filtro y resto de medio de cultivo;ambos son asimilables a urbano |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
