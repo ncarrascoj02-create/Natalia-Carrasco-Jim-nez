@@ -113,9 +113,9 @@ El protocolo docente adjunto (Práctica 3) propone 125 mL como volumen aproximad
 - **Fecha real de realización:** 14-10-2026
 - **Grupo:** Laboratorio Clínico y Biomédico 
 - **Equipo de trabajo, si procede:** En pareja,Cristina Llamazares Santiago
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Ejecución real supervisada en el laboratorio de Microbiología; describe cualquier fase que no hayas realizado personalmente]
-- **Nombre o código del medio preparado:** [Completa]
+- **Rol o tarea principal que realizaste:**Medir el agua en la probeta y pasarlo al vaso de precipitado para calentarla en el microondas,añadir el agar nutritivo previamente pesado por mi compañera al vaso con el agua ya caliente y mezclarlo.Calentar mas el agua hasta ebullición y trasvasarlo al bote con tapón y meterlo en el autoclave.
+- **Modalidad realmente realizada:**Ejecución real supervisada en el laboratorio de Microbiología;las fases que mi compañera hizo: pesó 2,88g de Agar nutritivo en la balanza.A continuación,saqué el recipiente del autoclave.Junto al mechero Bunsen,realizó el flameado el borde del recipiente antes de verter el medio de cultivo en cada placa de petri.Una vez finalizado el trasvase,volví a flamear el borde del recipiente.
+- **Nombre o código del medio preparado:** Agar nutritivo.
 - **Volumen previsto:** `125 mL` de Agar nutritivo; el protocolo docente estima unas seis placas. Registra el volumen y número realmente obtenidos, si procede.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -126,13 +126,13 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Vidrio de reloj, espátula, probeta, varilla y material de dispensación realmente utilizado] |
-| Equipos | [Balanza, placa calefactora/agitación, autoclave y zona autorizada realmente utilizados; «No aplica» si procede] |
-| Reactivos/materiales | [Agar nutritivo en polvo, agua destilada previamente calentada, recipiente autoclavable, seis placas estériles, etiquetas y EPI realmente utilizados] |
+| Instrumental | Vidrio de reloj, espátula, probeta, varilla,vaso de precipitado,botella con tapón azul y material de dispensación realmente utilizado |
+| Equipos | [Balanza,microondas,autoclave y mechero Bunsen |
+| Reactivos/materiales | Agar nutritivo en polvo, agua destilada previamente calentada, recipiente autoclavable, seis placas estériles, etiquetas y EPI realmente utilizados(bata y guantes) |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Papel de filtro y sobrante del medio | Urbanos o asimilables a los urbanos |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
