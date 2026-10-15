@@ -142,9 +142,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Transcribe la dosificación del fabricante (g/L) y calcula: g/L × 0,125 L = g de polvo. Anota fuente, operación y masa; registra por separado el agua indicada, sin inventar la dosis.] |
-| Configuración de equipos (si procede) | [Identifica balanza, calentamiento/agitación y autoclave; anota solo parámetros reales y el ciclo autorizado. No uses valores del protocolo adjunto sin confirmación local.] |
-| Características del producto o resultado final | [Describe volumen preparado (objetivo: 125 mL), placas obtenidas (referencia: unas seis), aspecto, gelificación, identificación, origen de datos y controles pendientes.] |
+| Cálculos (si procede) | [Transcribe la dosificación del fabricante (g/L) y calcula:Dosis del fabricante:23g.Cálculos:MASA DE POLVO(g)= dosificación indicada (g/l) x 0,125;23 x 0,125= 2,875g.Medición del agua:125ml|
+| Configuración de equipos (si procede) | Marca de balanza:Pocket Scale.Calentamiento en microondas.4 minutos incluido la ebullición.Autoclave:1 hora a 121 grados.Agitación con varilla:2 minutos. |
+| Características del producto o resultado final | Volumen preparado:125 ml, placas obtenidas:4 de 6 que tendríamos que haber rellenado.Aspecto:color amarillento.Gelificación:correcta din grumos.Identificación:correcta,con fecha del día,datos de identificación y nombre del medio de cultivo.Origen de datos:son propios de la práctica y de la etiqueta del fabricante y controles pendientes:ninguno |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
