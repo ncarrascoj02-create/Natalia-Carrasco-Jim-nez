@@ -275,7 +275,7 @@ En la próxima observación fresco, mejoraría la preparación de la muestra, ut
 | Interpretación | En la preparación en fresco de la muestra de agua estancada, se salvaron principalmente restos de detritus y una única estructura, cuya silueta compatibles de forma orientativa con una alga. La preparación estaba limpia, apenas había burbujas y el enfoque e iluminación eran adecuados, por lo que las evidencias visuales permiten considerar válida la observación. La presencia de la liga constituye una identificación orientativa, pero no es posible determinar su especie solo con la silueta observada. La presencia de distritos indica materia orgánica en la muestra. No se puede establecer con la información disponible. Una identificación definitiva de otros microorganismos. Si se observó algún movimiento, este debe interpretarse con precaución, ya que podría deberse a corrientes del líquido, vibraciones de la preparación o movimiento browniano, y no necesariamente a un movimiento propio de microorganismo |
 | Incidencias y acciones correctoras | No se detectaron incidencias  | No aplica | No fue necesaria ninguna medida correcta | No |
 | Ruta de residuos aplicada | Papel de filtro y abosorvente y pipeta pasteur van al contenedor doméstico y el porta y cubre al contenedor amarillo |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Estado de entrega | Entregado |
 
 ---
 
