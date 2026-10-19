@@ -158,8 +158,7 @@ No había zona especifica de recepción de la muestra ,y tampoco había una señ
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Zona y señalización analizadas |Se observa que este laboratorio no dispone de señalización |Este resultado es válido parcialmente|El resultado es válido parcialmente debido a que no hay 
-señalización |  
+| Zona y señalización analizadas |Se observa que este laboratorio no dispone de señalización |Este resultado es válido parcialmente|El resultado es válido parcialmente debido a que no hay señalización |  
 | Recepción e identificación trazables | Se observa una buena identificación con el lugar,hora y demás datos | Sí | Está muestra contiene todos los datos necesarios |
 | Derrame contenido y descontaminado | Se observa que hemos querido el derrame con papel absorbente y desinfectante | Sí | Creo que la descontaminación ha sido la correcta,ya que no es un liquido peligroso ni contagioso  |
 | Residuos procesados y eliminados correctamente | El papel utilizado como absorbente se elimina en el contenedor que corresponde | Sí | El residuo generado es asimilable a urbano y es poca cantidad |
