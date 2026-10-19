@@ -178,15 +178,15 @@ Mis evidencias demuestran que sé actuar de forma segura y organizada en el labo
 
 - **Pie de foto:** Se observan dos EPIs:guantes y bata
 - **Autoría y origen:** Propia
-- **Momento del procedimiento:** Primero nos hemos lavado las manos y nos hemos puesto los EPIS(bata y guantes).Una vez hecho lo anterior hemos recibido la muestra en la mesa de trabajo,en una bandeja con su papel de filtro.Observamos que estén todos los datos necesarios,el envase es el adecuado y esta en perfectas condiciones.Al abrir el bote es cuando se ha producido un derrame y hemos tenido que limpiarlo y desinfectar.Al finalizar retirada de EPIS y lavado de manos.
+- **Momento del procedimiento:Primero nos hemos lavado las manos y nos hemos puesto los EPIS(bata y guantes).Una vez hecho lo anterior hemos recibido la muestra en la mesa de trabajo,en una bandeja con su papel de filtro.Observamos que estén todos los datos necesarios,el envase es el adecuado y esta en perfectas condiciones.Al abrir el bote es cuando se ha producido un derrame y hemos tenido que limpiarlo y desinfectar.Al finalizar retirada de EPIS y lavado de manos.
 
 ### Imagen 2 — Recepción correcta de la muestra
 
 ![Recepción correcta de la muestra](../assets/P01/recepcion_correcta_de_la_muestra_02.jpg)
 
 - **Pie de foto:** Observamos que el envase esta correcto y contiene la documentación necesaria.
-- **Comprobación técnica asociada:** No hay zona de recepción de la muestra. 
-- **Momento del procedimiento:** Recibimos la muestra en una bandeja con papel de filtro.
+- **Comprobación técnica asociada:No hay zona de recepción de la muestra. 
+- **Momento del procedimiento:Recibimos la muestra en una bandeja con papel de filtro.
 
 ### Imagen 3 — Workflow o ciclo habitual de una muestra
 
@@ -200,7 +200,7 @@ Mis evidencias demuestran que sé actuar de forma segura y organizada en el labo
   6.Gestión de residuos:los materiales utilizados para limpiar el derrame se depositan en el contenedor correspondiente.
   7.Documentación:se registra lo ocurrido y las medidas tomadas.
 - **Origen y autorización:** Esquema propio 
-- **Relación con el procedimiento:** 1.Recepción; 2.Registro; 3.Procesamiento; 4.Derrame; 5.Gestión del derrame; 6.Gestión de residuos; 7.Documentación 
+- **Relación con el procedimiento: 1.Recepción; 2.Registro; 3.Procesamiento; 4.Derrame; 5.Gestión del derrame; 6.Gestión de residuos; 7.Documentación 
 
 ### Imagen 4 — Simulación del derrame y respuesta inicial
 
@@ -208,7 +208,7 @@ Mis evidencias demuestran que sé actuar de forma segura y organizada en el labo
 
 - **Pie de foto:** Se observa el absorbente que he utilizado para recoger el derrame.
 - **Medida crítica demostrada:** en esta práctica, yo no observo ya que el agua es inocua y hemos puesto la bandeja para que el agua se quede ahí.
-- **Momento del procedimiento:** hemos colocado una bandeja y en ella, papel de filtro y hemos simulado el derrame con la muestra de agua estancada.
+- **Momento del procedimiento:Hemos colocado una bandeja y en ella, papel de filtro y hemos simulado el derrame con la muestra de agua estancada.
 
 ### Imagen 5 — Procesamiento y eliminación correcta de la muestra
 
@@ -216,7 +216,7 @@ Mis evidencias demuestran que sé actuar de forma segura y organizada en el labo
 
 - **Pie de foto:** los residuos generados son el papel de filtro y el papel absorbente, estos residuos no requieren una eliminación especial se depositan en el contenedor asimilables urbano.
 - **Ruta autorizada:** Recepción de la muestra, manipulación en la zona de trabajo, simulación del derrame, recogida del derrame y los materiales utilizados y eliminación del contenedor correspondiente.
-- **Relación con la trazabilidad:**Registro de recepción de la muestra y de la actuación realizada ante el derrame y su posterior eliminación.
+- **Relación con la trazabilidad:Registro de recepción de la muestra y de la actuación realizada ante el derrame y su posterior eliminación.
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -270,9 +270,13 @@ Las próximas prácticas de microbiología, tendré como hábito comprobar siemp
 | Agrupamiento | individual |
 | Materiales o lotes relevantes | No aplicaba |
 | Controles |  9. Controles y resultados |
-| Resultado | [Resume o enlaza al apartado 9.2] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
+| Resultado |   Mis evidencias demuestran que sé actuar de forma segura y organizada en el laboratorio,puedo recibir y aceptar de manera correcta una muestra,comprobar que cumple todo lo necesario,actuar ante un derrame,gestionar los residuos y documentar el procedimiento |
+| Interpretación |    Primero observamos la zona de trabajo y la analizamos, observamos  que no había una zona de recepción de muestras y por lo tanto no estaba señalizada.
+Después se realizó la recepción de la muestra de agua estancada, comprobando su identificación y el estado antes de manipularla.
+Seleccionamos los EPIs adecuados al riesgo,en este caso eran la bata y los guantes.
+A continuación, se realizó la simulación del derrame, actuando de forma correcta y con los materiales necesarios.
+Por último, realice el procesamiento de los residuos generados eliminándolos según el procedimiento |
+| Incidencias y acciones correctoras |No hay zona de recepción de muestras y por lo tanto tampoco hay señalización | Este laboratorio no está separado por zonas | Propuesta:habilitar una zona de recepción  | En este caso no afecto al resultado |
 | Ruta de residuos aplicada |Ninguna,ya que es un residuo asimilable a urbano |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
