@@ -158,26 +158,26 @@ Antes de observar la muestra, esperaba encontrar diferentes microorganismos y pa
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
 | Preparación limpia y sin burbujas que impidan la lectura | Preparación en fresco limpia,con alguna pequeña burbuja pero sin elementos que dificulten la observación macroscópica | Sí válido | La preparación permite realizar una observación correcta al microscopio,ya que no presenta suciedad si que alguna burbuja pero no impide la visualización de la muestra |
-| Enfoque e iluminación adecuados  | imagen nítida de la muestra, con iluminación uniforme y estructuras visibles | Sí válido | el enfoque y la iluminación zona adecuado, permitiendo observar correctamente la muestra sin zonas muy oscuras, ni muy iluminadas |
-| Campo observado de forma sistemática | se ha recorrido el campo de observación, de manera ordenada | Sí válido | la observación se realizó de forma organizada, revisando el campo para dictar elementos presentes en la muestra |
-| Movimiento diferenciado de corrientes o artefactos |  se observaron movimientos producido por pequeñas corrientes de líquido o artefactos | Sí válido | el movimiento observado nos permite diferenciar posibles microorganismos de partículas, inmóviles o movimientos causados por la preparación  |
+| Enfoque e iluminación adecuados  | Imagen nítida de la muestra, con iluminación uniforme y estructuras visibles | Sí válido | El enfoque y la iluminación zona adecuado, permitiendo observar correctamente la muestra sin zonas muy oscuras, ni muy iluminadas |
+| Campo observado de forma sistemática | Se ha recorrido el campo de observación, de manera ordenada | Sí válido | La observación se realizó de forma organizada, revisando el campo para dictar elementos presentes en la muestra |
+| Movimiento diferenciado de corrientes o artefactos | Se observaron movimientos producido por pequeñas corrientes de líquido o artefactos | Sí válido | El movimiento observado nos permite diferenciar posibles microorganismos de partículas, inmóviles o movimientos causados por la preparación  |
 
 ### 9.2 Registro de hallazgos
 
 | Hallazgo | Preparación utilizada | Morfología, tamaño relativo y disposición | ¿Se observó movimiento? | Interpretación inicial |
 |---|---|---|---|---|
 | Detritrus | Preparación en fresco | Irregular | Tamaño:Pequeño Disposición:disperso | No |Restos de materia orgánica urgentes en el agua estancada |
-| Detritus | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| Detritus | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa |
-| Detritus | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| Alga | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| Detritus | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
+| Detritus | Preparación en fresco | Partículas de diferentes tamaños y formas irregulares  | No | Partículas procedentes de agua estancada |
+| Detritus | Preparación en fresco centrifugada | Partículas irregulares | No | La centrifugación pudo favorecer la concentración de partículas de la muestra |
+| Detritus |  Preparación en fresco centrifugada |Partículas pequeñas e irregulares | No | Restos orgánicos concentrados tras la centrifugación |
+| Alga |Preparación en fresco sin centrifugar  | Se observó una silueta alargada,de tamaño mayor que algunos detritus | No | Puede ser Bosmina,pulga de agua |
+| Detritus |Preparación en fresco centrifugada | Partículas de aspecto irregular |No | Presencia de algunas partículas suspendidas en el agua |
 
 ### 9.3 Resultado principal
 
 Resume los hallazgos más relevantes y especifica qué resultado procede de observación real, preparación segura, imagen docente o vídeo.
 
-se observaron principalmente restos de detritus y una única estructura con silueta compatible con un alga. El resultado procede de la observación real de la muestra mediante privación en fresco. El microscopio. Tipo de resultado/evidencia:observación real, preparación en fresco.
+Se observaron principalmente restos de detritus y una única estructura con silueta compatible con un alga. El resultado procede de la observación real de la muestra mediante privación en fresco. El microscopio. Tipo de resultado/evidencia:observación real, preparación en fresco.
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -229,13 +229,13 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 Interpreta los hallazgos usando las características observadas, los controles de calidad y las evidencias visuales. Distingue con claridad entre una identificación orientativa, una hipótesis y una conclusión que no puede sostenerse con la información disponible. Explica también si el movimiento observado podría deberse a corrientes, vibración o movimiento browniano.
 
-en la preparación en fresco de la muestra de agua estancada, se salvaron principalmente restos de detritus y una única estructura, cuya silueta compatibles de forma orientativa con una alga. La preparación estaba limpia, apenas había burbujas y el enfoque e iluminación eran adecuados, por lo que las evidencias visuales permiten considerar válida la observación. La presencia de la liga constituye una identificación orientativa, pero no es posible determinar su especie solo con la silueta observada. La presencia de distritos indica materia orgánica en la muestra. No se puede establecer con la información disponible. Una identificación definitiva de otros microorganismos. Si se observó algún movimiento, este debe interpretarse con precaución, ya que podría deberse a corrientes del líquido, vibraciones de la preparación o movimiento browniano, y no necesariamente a un movimiento propio de microorganismo.
+En la preparación en fresco de la muestra de agua estancada, se salvaron principalmente restos de detritus y una única estructura, cuya silueta compatibles de forma orientativa con una alga. La preparación estaba limpia, apenas había burbujas y el enfoque e iluminación eran adecuados, por lo que las evidencias visuales permiten considerar válida la observación. La presencia de la liga constituye una identificación orientativa, pero no es posible determinar su especie solo con la silueta observada. La presencia de distritos indica materia orgánica en la muestra. No se puede establecer con la información disponible. Una identificación definitiva de otros microorganismos. Si se observó algún movimiento, este debe interpretarse con precaución, ya que podría deberse a corrientes del líquido, vibraciones de la preparación o movimiento browniano, y no necesariamente a un movimiento propio de microorganismo.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de preparar, observar y registrar una muestra en fresco. Explica qué evidencias sostienen tu conclusión y qué limitaciones tuvo la práctica o el material utilizado.
 
-se alcanzó el objetivo de la práctica, ya que se preparó correctamente una muestra de agua estancada en fresco, se observó al microscopio y se registraron los hallazgos encontrados. Como limitaciones la muestra por poco elementos observables y solo se pudo realizar una identificación orientativa de larga mediante su silueta.
+Se alcanzó el objetivo de la práctica, ya que se preparó correctamente una muestra de agua estancada en fresco, se observó al microscopio y se registraron los hallazgos encontrados. Como limitaciones la muestra por poco elementos observables y solo se pudo realizar una identificación orientativa de larga mediante su silueta.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -243,19 +243,19 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué decisión durante la preparación influyó más en la calidad de la observación microscópica y cómo comprobaste su efecto?
 
-   la decisión que me influyó en la calidad de la observación fue realizada una aprobación limpia, con apenas burbujas y con una cantidad adecuada demuestra. Esto nos permite tener un campo de visión claro y facilitar la observación microscopio. El efecto se comprobó al consigue una imagen enfocada y poder distinguir los distritos y la silueta de ese alga.
+   La decisión que me influyó en la calidad de la observación fue realizada una aprobación limpia, con apenas burbujas y con una cantidad adecuada demuestra. Esto nos permite tener un campo de visión claro y facilitar la observación microscopio. El efecto se comprobó al consigue una imagen enfocada y poder distinguir los distritos y la silueta de ese alga.
 
 2. **Interpretación:** ¿Qué indicios utilizaste para decidir si el desplazamiento observado era movilidad propia, una corriente o un artefacto? ¿Qué información adicional necesitarías para afirmarlo con mayor seguridad?
 
-   para valorar el desplazamiento observado tuve en cuenta si el movimiento era dirigido y repetitivo, lo que podría indicar movilidad propia o se afectaba a varias partículas a la vez, lo que sería más compatible con una corriente. También se consideró la posibilidad de violaciones de la preparación o movimiento browniano. La observación realizada no indicios suficientes para confirmar una movilidad propia, por lo que no se puede establecer una conclusión. Para confirmarlo con mayor seguridad sería necesario realizar una observación prolongada. Repetir la preparación y comprobarse. El movimiento se mantiene.
+ Para valorar el desplazamiento observado tuve en cuenta si el movimiento era dirigido y repetitivo, lo que podría indicar movilidad propia o se afectaba a varias partículas a la vez, lo que sería más compatible con una corriente. También se consideró la posibilidad de violaciones de la preparación o movimiento browniano. La observación realizada no indicios suficientes para confirmar una movilidad propia, por lo que no se puede establecer una conclusión. Para confirmarlo con mayor seguridad sería necesario realizar una observación prolongada. Repetir la preparación y comprobarse. El movimiento se mantiene.
 
 3. **Conclusiones:** ¿Cuál de tus evidencias —registro, fotografía o esquema— respalda mejor la conclusión principal? Explica también una limitación de esa evidencia.
 
-   la evidencia que mejor respalda la conclusión principal, el registro de la observación microscópica, ya que recoge los hallazgos observados en la preparación fresco, principalmente distrito y la estructura compatible con algas. La evidencia visual nos permite apoyar la interpretación de la muestra, aunque una limitación es que la observación de una única silueta de algo, no permite identificar con seguridad la especie ni otros microorganismos. 
+La evidencia que mejor respalda la conclusión principal, el registro de la observación microscópica, ya que recoge los hallazgos observados en la preparación fresco, principalmente distrito y la estructura compatible con algas. La evidencia visual nos permite apoyar la interpretación de la muestra, aunque una limitación es que la observación de una única silueta de algo, no permite identificar con seguridad la especie ni otros microorganismos. 
 
 4. **Aprendizaje y transferencia:** ¿Qué mejorarías en una próxima observación en fresco y cómo aplicarías ese aprendizaje a una tinción o a otra técnica microscópica?
 
-   en la próxima observación fresco, mejoraría la preparación de la muestra, utilizando la cantidad adecuada, evitando burbuja y observando de forma más sistemática el campo. También realizaría una observación más prolongada para diferenciar mejor los movimientos. Podemos aplicar una tinción microscópica, ya que una preparación limpia bien enfocado y con una cantidad adecuada demuestra facilita la visualización de esas estructuras y nos permite interpretar mejor los resultados. También sería importante seguir un orden de observación y registrar esos hallazgos para evitar errores en la interpretación.
+En la próxima observación fresco, mejoraría la preparación de la muestra, utilizando la cantidad adecuada, evitando burbuja y observando de forma más sistemática el campo. También realizaría una observación más prolongada para diferenciar mejor los movimientos. Podemos aplicar una tinción microscópica, ya que una preparación limpia bien enfocado y con una cantidad adecuada demuestra facilita la visualización de esas estructuras y nos permite interpretar mejor los resultados. También sería importante seguir un orden de observación y registrar esos hallazgos para evitar errores en la interpretación.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
