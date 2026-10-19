@@ -217,7 +217,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 ![Limpieza del puesto y eliminación de residuos](../assets/P02/05_limpieza_y_residuos.jpg)
 (../assets/P02/05_limpieza_y_residuos.jpg`
 - **Texto alternativo:** Puesto de trabajo limpio y residuos de la práctica separados según la ruta del centro.
-- **Pie de foto:**Desinfección del medio trabajo y eliminación de los residuos.El portaobejtos al contenedor de objetos cortantes y punzantes.  
+- **Pie de foto:**Desinfección del medio trabajo y eliminación de los residuos.El portaobejtos y cubreobjetos al contenedor de objetos cortantes y punzantes.Papel de filtro y absorvente junto con la pipeta pasteur al contenedor asimilable a urbano.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
