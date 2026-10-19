@@ -188,28 +188,28 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
  ![Preparación húmeda sin concentración](../assets/P02/01_preparacion_sin_concentracion.jpg)
 (../assets/P02/01_preparacion_sin_concentracion.jpg`
 - **Texto alternativo:** Preparación húmeda directa de la muestra de agua estancada sobre el portaobjetos.
-- **Pie de foto:** [Describe el depósito de la gota y la colocación del cubreobjetos; indica el origen autorizado de la muestra.]
+- **Pie de foto:** Se depositó una gota de agua de charca estancada sobre un portaobjetos y encima el cubreobjetos,evitando la formación de burbujas de aire.Origen de la muestra en lugar de afirmar que estaba autorizada.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 2 — Campo microscópico de la preparación sin concentración
 
 ![Campo microscópico de la preparación sin concentración](../assets/P02/02_campo_sin_concentracion.jpg)../assets/P02/02_campo_sin_concentracion.jpg`
 - **Texto alternativo:** Campo microscópico de la preparación directa con un hallazgo señalado.
-- **Pie de foto:** [Describe el hallazgo y registra el aumento utilizado; evita una identificación no confirmada.]
+- **Pie de foto:**Se observo una estructura de color amarilento,alargada e irregular.También se aprecian partículas en su interior.Utilizamos los aumentos de 10x y 40x=400 aumentos. 
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 3 — Centrifugación de la muestra
 
 ![Centrifugaión de la muestra](../assets/P02/03_centrifugacion.jpg)../assets/P02/03_centrifugacion.jpg`
 - **Texto alternativo:** Tubos cerrados y equilibrados en la centrífuga durante la preparación concentrada autorizada.
-- **Pie de foto:** [Indica el equipo y los parámetros validados por el centro; fotografía solo si está permitido y sin datos identificativos.]
+- **Pie de foto:** Utilice un microscopio óptico para observar la muestra de agua de charca en fresco.Se realizaron observaciones antes y despues de la centrifugación.Los parámetros de observación,como el aumento y la centrifugación,fueron establecidos por la práctica.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 4 — Campo microscópico de la preparación concentrada
 
 ![Campo microscópico de la preparación concentrada](../assets/P02/04_campo_concentrado.jpg)../assets/P02/04_campo_concentrado.jpg`
 - **Texto alternativo:** Campo microscópico de la preparación obtenida tras centrifugación con un hallazgo señalado.
-- **Pie de foto:** [Describe el hallazgo y registra el aumento; indica que procede de la preparación concentrada.]
+- **Pie de foto:** Se observo una estructura de color amarilento,alargada e irregular.También se aprecian partículas en su interior.Utilizamos los aumentos de 10x y 40x=400 aumentos. 
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
 ### Imagen 5 — Limpieza del puesto y eliminación de residuos
@@ -217,7 +217,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 ![Limpieza del puesto y eliminación de residuos](../assets/P02/05_limpieza_y_residuos.jpg)
 (../assets/P02/05_limpieza_y_residuos.jpg`
 - **Texto alternativo:** Puesto de trabajo limpio y residuos de la práctica separados según la ruta del centro.
-- **Pie de foto:** [Describe la limpieza realizada y la ruta de eliminación aplicada; no fotografíes datos personales.]
+- **Pie de foto:**Desinfección del medio trabajo y eliminación de los residuos.El portaobejtos al contenedor de objetos cortantes y punzantes.  
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -267,10 +267,13 @@ En la próxima observación fresco, mejoraría la preparación de la muestra, ut
 | Agrupamiento | En pareja |
 | Modalidad y origen de la muestra o evidencia | Muestra real de agua estancada analizada mediante observación microscópica directa y preparación en fresco |
 | Materiales o lotes relevantes | Muestra de agua,portaobjetos,cubreobjetos,pipeta pasteur,microscopio  |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.3] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
+| Controles | Preparación limpia y sin burbujas que impidan la lectura | Preparación en fresco limpia,con alguna pequeña burbuja pero sin elementos que dificulten la observación macroscópica | Sí válido | La preparación permite realizar una observación correcta al microscopio,ya que no presenta suciedad si que alguna burbuja pero no impide la visualización de la muestra |
+| Enfoque e iluminación adecuados  | Imagen nítida de la muestra, con iluminación uniforme y estructuras visibles | Sí válido | El enfoque y la iluminación zona adecuado, permitiendo observar correctamente la muestra sin zonas muy oscuras, ni muy iluminadas |
+| Campo observado de forma sistemática | Se ha recorrido el campo de observación, de manera ordenada | Sí válido | La observación se realizó de forma organizada, revisando el campo para dictar elementos presentes en la muestra |
+| Movimiento diferenciado de corrientes o artefactos | Se observaron movimientos producido por pequeñas corrientes de líquido o artefactos | Sí válido | El movimiento observado nos permite diferenciar posibles microorganismos de partículas, inmóviles o movimientos causados por la preparación |
+| Resultado | Se observaron principalmente restos de detritus y una única estructura con silueta compatible con un alga. El resultado procede de la observación real de la muestra mediante privación en fresco. El microscopio. Tipo de resultado/evidencia:observación real, preparación en fresco |
+| Interpretación | En la preparación en fresco de la muestra de agua estancada, se salvaron principalmente restos de detritus y una única estructura, cuya silueta compatibles de forma orientativa con una alga. La preparación estaba limpia, apenas había burbujas y el enfoque e iluminación eran adecuados, por lo que las evidencias visuales permiten considerar válida la observación. La presencia de la liga constituye una identificación orientativa, pero no es posible determinar su especie solo con la silueta observada. La presencia de distritos indica materia orgánica en la muestra. No se puede establecer con la información disponible. Una identificación definitiva de otros microorganismos. Si se observó algún movimiento, este debe interpretarse con precaución, ya que podría deberse a corrientes del líquido, vibraciones de la preparación o movimiento browniano, y no necesariamente a un movimiento propio de microorganismo |
+| Incidencias y acciones correctoras | No se detectaron incidencias  | No aplica | No fue necesaria ninguna medida correcta | No |
 | Ruta de residuos aplicada | Papel de filtro y abosorvente y pipeta pasteur van al contenedor doméstico y el porta y cubre al contenedor amarillo |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
