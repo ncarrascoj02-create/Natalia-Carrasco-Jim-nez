@@ -260,7 +260,7 @@ Control previsto: queda pendiente, comprobar la esterilidad mediante el procedim
 El control de esterilidad debe mantenerse pendiente hasta comprobar que no aparece crecimiento microbiano durante el tiempo y las condiciones de incubación establecidos. Aunque las placas parezcan correctas, no garantiza que estén libres de microorganismos, contaminantes o actas para su uso posterior |
 | Incidencias y acciones correctoras |Obtenemos 4 placas en vez de 6 | No se ha realizado bien el trasvase del medio a las placas | Propuesta:para la próxima vez repartir bien el medio en cada placa para que de para todas |Sí,ahora disponemos solo de 4 placas en vez de 6 |   
 | Ruta de residuos y conservación | Papel de filtro y resto de medio de cultivo;ambos son asimilables a urbano |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Estado de entrega | Entregado |
 
 ---
 
