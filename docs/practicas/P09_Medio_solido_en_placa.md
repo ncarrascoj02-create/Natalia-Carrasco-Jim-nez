@@ -154,41 +154,41 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 ![Pesada y transferencia del medio desecado](../assets/P09/pesada_o_preparacion_de_componentes_01.jpg)
 
-- **Pie de foto:** [Qué se observa: lectura de balanza, Agar nutritivo en polvo, vidrio de reloj o transferencia al recipiente]
-- **Dato de trazabilidad o calidad que demuestra:** [Completa]
-- **Autoría y origen:** [Propia / compartida con tu equipo / material docente autorizado]
+- **Pie de foto:** Qué se observa: lectura de balanza, Agar nutritivo en polvo, vidrio de reloj o transferencia al recipiente
+- **Dato de trazabilidad o calidad que demuestra:** Dato de trazabilidad:pesada del medio de cultivo nutritivo en polvo abordar su preparación.Calidad que demuestra:control de la cantidad de medio de cultivo utilizada,verificando que es la masa que indica en el procedimiento.
+- **Autoría y origen:** Elaboración propia,con material compartido con mi equipo y material docente autorizado.
 
 ### Imagen 2 — Calentamiento del medio tras la mezcla
 
 ![Calentamiento del medio tras la mezcla](../assets/P09/calentamiento_del_medio_tras_la_mezcla_02.jpg)
 
-- **Pie de foto:** [Recipiente con el medio mezclado durante el calentamiento hasta ebullición]
-- **Control o decisión técnica que demuestra:** [Disolución del agar y desaparición de grumos; indica el equipo utilizado]
-- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
+- **Pie de foto:** Recipiente con el medio mezclado durante el calentamiento hasta ebullición
+- **Control o decisión técnica que demuestra:** Comprobación de la correcta disolución del medio nutritivo en polvo y de la desaparición de partículas visibles,para obtener una mezcla homogénea.Equipos utilizados:balanza,espátul,vidrio de reloj,vaso de precipitado,botella,varilla agitadora y microondas.
+- **Autoría y origen:** Ejecución propia en el laboratorio durante la práctica,siguiendo las indicaciones,con material de laboratorio compartido con el equipo y fotos propias del procedimiento.
 
 ### Imagen 3 — Recipiente dentro del autoclave
 
 ![Botella o matraz con el medio en el interior del autoclave](../assets/P09/recipiente_en_el_autoclave_03.jpg)
 
-- **Pie de foto:** [Botella o matraz autoclavable con el medio, colocado dentro del autoclave antes del ciclo]
-- **Dato de trazabilidad o seguridad que demuestra:** [Identificación del recipiente y acondicionamiento para esterilización; no fotografíes el equipo abierto durante el ciclo]
-- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
+- **Pie de foto:** Botella o matraz autoclavable con el medio, colocado dentro del autoclave antes del ciclo
+- **Dato de trazabilidad o seguridad que demuestra:** Identificación y acondicionamiento del recipiente con el medio de cultivo para la esterilización,garantizando su correcta preparación antes del ciclo. 
+- **Autoría y origen:** Registro de la foto propia del acondicionamiento del recipiente para su esterilización,realizando durante la práctica,siguiendo las indicaciones y con material compartido.
 
 ### Imagen 4 — Dispensación aséptica en placas
 
 ![Incorporación aséptica del medio esterilizado a las placas](../assets/P09/dispensacion_aseptica_en_placas_04.jpg)
 
-- **Pie de foto:** [La imagen debe mostrar cómo se incorpora a las placas el medio tras su esterilización, de manera aséptica]
-- **Zona autorizada y control aplicado:** [Cabina de seguridad biológica o entorno de la llama; explica la técnica aséptica observada]
-- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
+- **Pie de foto:** La imagen debe mostrar cómo se incorpora a las placas el medio tras su esterilización, de manera asépticas
+- **Zona autorizada y control aplicado:** Trabajo en la zona autorizada del laboratorio(entorno con llama),siguiendo las indicaciones y aplicando medidas de higiene y prevención de contaminación.
+- **Autoría y origen:** Ejecución propia durante la práctica,siguiendo la demostración docente y con registro fotográfico.
 
 ### Imagen 5 — Placas finales etiquetadas o control de calidad
 
 ![Placas finales etiquetadas o control de calidad](../assets/P09/placas_finales_etiquetadas_o_control_de_calidad_05.jpg)
 
-- **Pie de foto:** [Aspecto, grosor, rotulado o control de las placas]
-- **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita tu conclusión]
-- **Autoría y origen:** [Completa]
+- **Pie de foto:** Aspecto, grosor, rotulado o control de las placas
+- **Relación con el resultado principal:** La evidencia documenta la preparación del medio de cultivo,que permitió obtener 4 placas en lugar de 6 previstas,lo que indica algo inferior al esperado.
+- **Autoría y origen:** Ejecución propia durante la práctica,siguiendo la demostración docente y con registro fotográfico.
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -222,15 +222,15 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué decisión sobre la fórmula, el agente gelificante o la dispensación consideras más crítica para obtener placas de calidad y cómo comprobaste que se realizó correctamente?
 
-   la decisión más crítica fue la dispensación del medio de cultivo, no se repartió correctamente y solo se pudieron llenar cuatro placas. Para comprobar que se realizó correctamente, se debería verificar que el volumen se distribuyó de forma uniforme y que todas las placas tenían una cantidad suficiente del medio. En esta práctica, el resultado demuestra que la dispensación no es adecuada. Aunque el medio presentaba un aspecto homogéneo y un color ámbar, también es necesario comprobar la fórmula, la solidificación y la esterilidad antes de utilizar las placas. 
+La decisión más crítica fue la dispensación del medio de cultivo, no se repartió correctamente y solo se pudieron llenar cuatro placas. Para comprobar que se realizó correctamente, se debería verificar que el volumen se distribuyó de forma uniforme y que todas las placas tenían una cantidad suficiente del medio. En esta práctica, el resultado demuestra que la dispensación no es adecuada. Aunque el medio presentaba un aspecto homogéneo y un color ámbar, también es necesario comprobar la fórmula, la solidificación y la esterilidad antes de utilizar las placas. 
 
 3. **Interpretación:** ¿Cómo interpretas la presencia de condensación excesiva en la tapa de las placas tras su solidificación, y qué impacto negativo puede tener en el momento de realizar una siembra por extensión o estría?
 
-   la presencia de condensación en la tapa de las placas indica que puede haber habido cambios de temperatura durante la solidificación o enfriamiento del medio. Esta condensación puede provocar que las gotas caigan sobre la nutritivo y dispersen el inóculo, dificultando la siembra, por extensión o estrías, alterando la distribución de los microorganismos y favoreciendo esa mezcla de colonias. Como consecuencia, puede dificultar el aislamiento de colonias individuales y por lo tanto, la interpretación de los resultados.
+La presencia de condensación en la tapa de las placas indica que puede haber habido cambios de temperatura durante la solidificación o enfriamiento del medio. Esta condensación puede provocar que las gotas caigan sobre la nutritivo y dispersen el inóculo, dificultando la siembra, por extensión o estrías, alterando la distribución de los microorganismos y favoreciendo esa mezcla de colonias. Como consecuencia, puede dificultar el aislamiento de colonias individuales y por lo tanto, la interpretación de los resultados.
 
 5. **Conclusiones:** ¿Qué datos mínimos de trazabilidad deben figurar obligatoriamente en el etiquetado de cada placa (o paquete de placas) para garantizar su correcta identificación y control de calidad a largo plazo?
 
-   en nuestro caso, el etiquetado de las placas contiene la fecha del día que se ha realizado, datos identificativo de las personas que lo hemos realizado y el nombre del medio de cultivo utilizado. También se pueden incluir otros datos como el número de la muestra, lote del medio,condiciones de incubación si procede.
+En nuestro caso, el etiquetado de las placas contiene la fecha del día que se ha realizado, datos identificativo de las personas que lo hemos realizado y el nombre del medio de cultivo utilizado. También se pueden incluir otros datos como el número de la muestra, lote del medio,condiciones de incubación si procede.
 
 6. **Aprendizaje y transferencia:** ¿De qué manera la destreza adquirida en el manejo estéril durante el vertido de placas influirá en la precisión de tus futuras técnicas de inoculación y siembra?
 
