@@ -127,7 +127,7 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 | Elemento | Listado del alumnado |
 |---|---|
 | Instrumental | Vidrio de reloj, espátula, probeta, varilla,vaso de precipitado,botella con tapón azul y material de dispensación realmente utilizado |
-| Equipos | [Balanza,microondas,autoclave y mechero Bunsen |
+| Equipos | Balanza,microondas,autoclave y mechero Bunsen |
 | Reactivos/materiales | Agar nutritivo en polvo, agua destilada previamente calentada, recipiente autoclavable, seis placas estériles, etiquetas y EPI realmente utilizados(bata y guantes) |
 
 | Residuo previsto | Tipo |
