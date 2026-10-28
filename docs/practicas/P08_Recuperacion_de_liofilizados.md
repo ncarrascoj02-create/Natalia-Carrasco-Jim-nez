@@ -121,8 +121,8 @@ Esta alternativa resulta útil si se quiere reservar parte del liófilo seco par
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
+- **Nombre y apellidos:** Natalia Carrasco Jiménez
+- **Fecha real de realización:** 28-10-2026
 - **Grupo:** [Indica tu grupo]
 - **Pareja o equipo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
