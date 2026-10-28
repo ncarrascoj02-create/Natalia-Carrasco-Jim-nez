@@ -123,8 +123,8 @@ Esta alternativa resulta útil si se quiere reservar parte del liófilo seco par
 
 - **Nombre y apellidos:** Natalia Carrasco Jiménez
 - **Fecha real de realización:** 28-10-2026
-- **Grupo:** [Indica tu grupo]
-- **Pareja o equipo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
+- **Grupo:** Laboratorio Clínico y Biomédico
+- **Pareja o equipo, si procede:** En pareja,Cristina Llamazares Santiago
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
 - **Modalidad y ruta realmente realizadas:** [Ejecución real supervisada, ruta A o B / demostración parcial / práctica detenida antes de abrir; especifica]
 - **Referencia de vial, registro o caso docente:** [Completa con el código autorizado; no incluyas datos sensibles]
