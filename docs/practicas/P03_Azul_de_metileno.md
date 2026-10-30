@@ -103,14 +103,14 @@ El documento adjunto propone una preparación directa y otra tras concentración
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
+- **Nombre y apellidos:** Natalia Carrasco Jiménez
 - **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
+- **Grupo:** 2ºLaboratorio Clínico y Biomédico
+- **Pareja de trabajo, si procede:** Trabajo individual
+- **Rol o tarea principal que realizaste:** Teñir con azul de metileno la gota de agua estancada que deposito en el portaobjetos y visualizarla al microscopio.
 - **Modalidad realmente realizada:** [Muestra autorizada / preparación docente teñida / imagen o vídeo / otra; descríbela]
 - **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
-- **Reactivo utilizado:** [Nombre, concentración indicada por el centro, lote o referencia si procede]
+- **Reactivo utilizado:** Azul de metileno [Nombre, concentración indicada por el centro, lote o referencia si procede]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
