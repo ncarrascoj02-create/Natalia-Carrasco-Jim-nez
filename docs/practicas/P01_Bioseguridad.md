@@ -121,7 +121,7 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 - **Nombre y apellidos:** Natalia Carrasco Jiménez
 - **Fecha real de realización:** 23-09-2026
-- **Grupo:** 2.Laboratorio Clínico y Biomédico
+- **Grupo:** 2ºLaboratorio Clínico y Biomédico
 - **Pareja o equipo, si procede:** Trabajo individual 
 - **Rol o tarea principal que realizaste:** He realizado yo toda la práctica. 
 - **Modalidad realmente realizada:** Simulación con material limpio
