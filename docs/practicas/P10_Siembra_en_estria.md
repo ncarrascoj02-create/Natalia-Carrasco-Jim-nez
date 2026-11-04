@@ -107,7 +107,7 @@ La descripción macroscópica debe limitarse a lo realmente observable: presenci
 - **Nombre y apellidos:** Natalia Carrasco Jiménez
 - **Fecha de ejecución:** 4/11/2026
 - **Fecha de lectura, si procede:** [dd/mm/aaaa / pendiente / no aplicaba]
-- **Grupo:** [Indica tu grupo]
+- **Grupo:** En pareja,con Cristina Llamazares Santiago 
 - **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
 - **Modalidad realmente realizada:** [Ejecución real supervisada; indica si fue individual o por parejas]
