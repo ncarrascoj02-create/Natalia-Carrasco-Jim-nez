@@ -104,8 +104,8 @@ La descripción macroscópica debe limitarse a lo realmente observable: presenci
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha de ejecución:** [dd/mm/aaaa]
+- **Nombre y apellidos:** Natalia Carrasco Jiménez
+- **Fecha de ejecución:** 4/11/2026
 - **Fecha de lectura, si procede:** [dd/mm/aaaa / pendiente / no aplicaba]
 - **Grupo:** [Indica tu grupo]
 - **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
