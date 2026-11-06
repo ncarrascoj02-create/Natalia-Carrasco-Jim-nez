@@ -104,13 +104,13 @@ El documento adjunto propone una preparación directa y otra tras concentración
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
 - **Nombre y apellidos:** Natalia Carrasco Jiménez
-- **Fecha real de realización:** [dd/mm/aaaa]
+- **Fecha real de realización:** 01/10/2026
 - **Grupo:** 2ºLaboratorio Clínico y Biomédico
 - **Pareja de trabajo, si procede:** Trabajo individual
 - **Rol o tarea principal que realizaste:** Teñir con azul de metileno la gota de agua estancada que deposito en el portaobjetos y visualizarla al microscopio.
-- **Modalidad realmente realizada:** [Muestra autorizada / preparación docente teñida / imagen o vídeo / otra; descríbela]
-- **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
-- **Reactivo utilizado:** Azul de metileno [Nombre, concentración indicada por el centro, lote o referencia si procede]
+- **Modalidad realmente realizada:** Preparación docente teñida 
+- **Código o descripción de la muestra/material docente: Muestra de agua estancada procedente de una charca,utilizada como material docente para la práctica de tinción con azul de metileno y posterior observación microscópica.
+- **Reactivo utilizado:** Nombre:azul de metileno;concentración:no especificada;lote o referencia:no indicado.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -118,17 +118,17 @@ El documento adjunto propone una preparación directa y otra tras concentración
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | [Completa] |
-| FDS y estado del reactivo | [Completa] |
-| EPI y medidas de seguridad aplicadas | [Completa] |
-| Estado del portaobjetos y cubreobjetos | [Completa] |
-| Aumento(s) utilizado(s) | [Completa] |
+| Autorización o modalidad segura de la muestra | Muestra de agua estancada de una charca utilizada con fines docentes.No es una muestra clínica. |
+| FDS y estado del reactivo | Se utilizó azul de metileno.Se comprobó su estado y aspecto antes de utilizarlo.No se dispone información sobre lote ni la concentración. |
+| EPI y medidas de seguridad aplicadas | Uso de bata y guantes.Se evitó el contacto directo con el colorante y se mantuvo limpia la zona de trabajo. |
+| Estado del portaobjetos y cubreobjetos | Portaobjetos y cubreobjetos limpios,secos y sin roturas visibles antes de realizar la preparación. |
+| Aumento(s) utilizado(s) | Objetivos de 10x y 40x |
 
 ### 8.2 Hipótesis de comparación
 
 Antes de observar, indica qué diferencia esperas encontrar entre la preparación en fresco de P02 y la preparación teñida con azul de metileno. Si trabajaste con una imagen o preparación docente, formula la hipótesis a partir de la información disponible.
 
-[Escribe aquí tu hipótesis.]
+Se espera que en la preparación en fresco se observen los microorganismos en su estado natural,pudiendo apreciar mejor su movimiento,mientras que en la preparación teñida con azul de metileno se espera observar un mayor contraste y distinguir mejor algunas estructuras celulares. 
 
 ## 10. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
 
