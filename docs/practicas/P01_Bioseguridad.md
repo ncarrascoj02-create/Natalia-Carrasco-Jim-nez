@@ -175,6 +175,7 @@ Mis evidencias demuestran que sé actuar de forma segura y organizada en el labo
 ### Imagen 1 — Preparación o selección de EPI
 
 ![Preparación o selección de EPI](../assets/P01/preparacion_o_seleccion_de_epi_01.jpg)
+(../assets/P01/preparacion_o_seleccion_de_epi_01.jpg)
 
 - **Pie de foto:** Se observan dos EPIs:guantes y bata
 - **Autoría y origen:** Propia
