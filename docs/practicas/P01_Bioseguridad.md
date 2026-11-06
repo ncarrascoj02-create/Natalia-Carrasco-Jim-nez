@@ -279,6 +279,6 @@ A continuación, se realizó la simulación del derrame, actuando de forma corre
 Por último, realice el procesamiento de los residuos generados eliminándolos según el procedimiento |
 | Incidencias y acciones correctoras |No hay zona de recepción de muestras y por lo tanto tampoco hay señalización | Este laboratorio no está separado por zonas | Propuesta:habilitar una zona de recepción  | En este caso no afecto al resultado |
 | Ruta de residuos aplicada |Ninguna,ya que es un residuo asimilable a urbano |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Estado de entrega | Entregado |
 
 ---
