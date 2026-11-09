@@ -138,9 +138,9 @@ Se espera que en la preparación en fresco se observen los microorganismos en su
 |---|---|---|---|
 | Reactivo correctamente identificado y apto para uso | Se comprobó que el reactivo era azul de metileno y que estaba en condiciones de uso|Sí| El color estaba correctamente identificado y permitió realizar la tinción |
 | Preparación sin burbujas o artefactos limitantes | Se observo la preparación,comprobando que no hubiera burbujas que dificulten la visión(si que había alguna pero pequeña) | Sí | Las burbujas pueden dificultar la observación de la muestra |
-| Contraste suficiente para la observación | La muestra presentó una coloración azul que facilitó distinguir algunas estructuras | Sí |  |
-| Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Gestión correcta de residuos y limpieza | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Contraste suficiente para la observación | La muestra presentó una coloración azul que facilitó distinguir algunas estructuras | Sí | El azul de metileno aumenta el contraste y facilita la observación microscópica |
+| Enfoque e iluminación adecuados | Se ajusto el enfoque y la iluminación del microscopio hasta conseguir una imagen clara | Sí | Permite observar mejor las estructuras presentes en la muestra |
+| Gestión correcta de residuos y limpieza | Se limpiaron los materiales y se eliminaron los residuos siguiendo las normas del laboratorio | Sí | Evita contaminaciones y mantiene el puesto d triscado limpio y seguro |
 
 ### 10.2 Registro de hallazgos
 
@@ -154,11 +154,11 @@ Se espera que en la preparación en fresco se observen los microorganismos en su
 
 | Aspecto comparado | P02 — Observación de agua estancada mediante preparación en fresco | P03 — Tinción vital con azul de metileno | Interpretación de la diferencia |
 |---|---|---|---|
-| Contraste | [Completa] | [Completa] | [Completa] |
-| Morfología o detalles visibles | [Completa] | [Completa] | [Completa] |
-| Movimiento observado | [Completa] | [Completa] | [Completa] |
-| Facilidad de observación | [Completa] | [Completa] | [Completa] |
-| Limitaciones | [Completa] | [Completa] | [Completa] |
+| Contraste | Bajo,se observaron los microorganismos con poco contraste | Mayor contraste gracias a la coloración azul | El colorante facilita distinguir las estructuras de la muestra |
+| Morfología o detalles visibles | Se apreciaba la forma general de algunos microorganismos | Se podían distinguir mejor algunas formas y detalles celulares | La tinción mejora la visualización de las estrucuras |
+| Movimiento observado | Se podrán observar movimientos de algún microorganismo | Los movimientos eran difíciles de observar o no se apreciaban | La tinción puede alterar o impedir el movimiento natural de los microorganismos |
+| Facilidad de observación | Era más difícil gobernarte algunas estructuras por la falta de contraste | Resultaba más fácil identificar formas por la coloración | El azul de metileno facilita la observación microscópica |
+| Limitaciones | El bajo contraste dificultaba observar algunos detalles | La tinción podía alterar las estructuras y dificultar la observación de movimientos | Cada técnica tiene sus ventajas y limitaciones |
 
 ### Resultado principal
 
@@ -237,11 +237,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P03` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 01/10/2026 |
 | UD / RA / CE | `UD2 / RA02 / CE02.a–CE02.g` |
-| Agrupamiento | [Individual / pareja; especifica] |
+| Agrupamiento | Individual |
 | Modalidad y origen de la muestra o evidencia | [Completa] |
-| Reactivo y lote o referencia | [Completa] |
+| Reactivo y lote o referencia | Azul de metileno(no hay lote ni referencia) |
 | Controles | [Resume o enlaza al apartado 10.1] |
 | Resultado | [Resume o enlaza al apartado 11] |
 | Interpretación | [Resume o enlaza al apartado 14] |
