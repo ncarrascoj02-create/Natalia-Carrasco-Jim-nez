@@ -136,9 +136,9 @@ Se espera que en la preparación en fresco se observen los microorganismos en su
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Reactivo correctamente identificado y apto para uso | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Preparación sin burbujas o artefactos limitantes | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Contraste suficiente para la observación | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Reactivo correctamente identificado y apto para uso | Se comprobó que el reactivo era azul de metileno y que estaba en condiciones de uso|Sí| El color estaba correctamente identificado y permitió realizar la tinción |
+| Preparación sin burbujas o artefactos limitantes | Se observo la preparación,comprobando que no hubiera burbujas que dificulten la visión(si que había alguna pero pequeña) | Sí | Las burbujas pueden dificultar la observación de la muestra |
+| Contraste suficiente para la observación | La muestra presentó una coloración azul que facilitó distinguir algunas estructuras | Sí |  |
 | Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Gestión correcta de residuos y limpieza | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 
