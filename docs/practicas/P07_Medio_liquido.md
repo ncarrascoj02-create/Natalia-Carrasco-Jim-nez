@@ -163,8 +163,8 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 *Figura 1. Masa pesada y envase del BHI; documenta la dosis y el lote sin mostrar datos personales.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Pie del alumnado:** Pesaje de 1,85 g de polvo del medio de cultivo BHI utilizando una balanza y papel de aluminio como soporte de pesada.
+- **Autoría y modalidad:** Propia / compartida con el grupo
 
 ### Imagen 2 — Disolución del lote de 50 mL
 
@@ -174,8 +174,8 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 *Figura 2. Preparación del BHI con agua destilada; indica cómo se midió el volumen y el aspecto de la disolución.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Pie del alumnado:** Disolución de 1,85 g de medio de cultivo BHI en agua destilada dentro de un vaso de precipitado,hasta obtener una mezcla homogénea.
+- **Autoría y modalidad:** Propia / compartida con el grupo
 
 ### Imagen 3 — Dispensación de 8 mL y seis tubos identificados
 
@@ -185,8 +185,8 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 *Figura 3. Medida de una alícuota y conjunto de seis tubos antes del autoclave; indica el volumen dispensado.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Pie del alumnado:** Medio completamemte disuelto y homogéneo en un vaso de precipitados,realizando la recogida con una pipeta para su posterior dispensación en los tubos. 
+- **Autoría y modalidad:** Propia / compartida con el grupo
 
 ### Imagen 4 — Acondicionamiento y registro del ciclo
 
@@ -196,8 +196,8 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 *Figura 4. Soporte, cierres o registro del ciclo autorizado; identifica si realizaste u observaste esta fase.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Pie del alumnado:** Pantalla del autoclave donde se muestran los parámetros del ciclo de esterilización establecidos:temperatura de 121 grados centígrados durante 15 minutos. 
+- **Autoría y modalidad:** Propia / compartida con el grupo
 
 ### Imagen 5 — Caldo BHI final y estado de control
 
@@ -207,8 +207,8 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 *Figura 5. Tubos de BHI tras el enfriamiento; describe aspecto, integridad y controles realizados o pendientes.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Pie del alumnado:** Tubos de ensayo con el medio de cultivo ya esterilizados, correctamente identificado y cerrados con sus tapones.
+- **Autoría y modalidad:** Propia / compartida con el grupo
 
 Puedes añadir hasta tres evidencias más si son pertinentes; no fabriques imágenes para documentar una fase no realizada. Sube cada archivo a la ruta indicada y comprueba la vista previa.
 
@@ -266,7 +266,7 @@ La cantidad de BHI en polvo también se multiplicaría, siguiendo la dosis indic
 | Resultado | Se obtuvieron seis tubos con 8 ml de medio BHI cada uno. El medio presentó una aspecto líquido, homogéneo y de color amarillo. La esterilización se realizó en autoclave. Posteriormente, se observó crecimiento bacteriano tras la inoculación |
 | Interpretación | La preparación del lote de BHI se considera satisfactorio. Se prepara 50 ml, siguiendo la dosis indicada, y se dispensaron seis tubos con 8 ml cada uno, utilizando 48 ml dejando 2 ml de margen. El medio presentó un aspecto homogéneo y los tubos quedaron correctamente identificados. Se observó crecimiento bacteriano tras la inoculación, lo que indica que el medio permitió el desarrollo de bacterias,como comprobación final habría que confirmar que no existía contaminación previa y que la esterilización fue correcta. El crecimiento observado es una evidencia favorable,pero no garantiza la calidad microbiológica completa del lote.  |
 | Incidencias y acciones correctoras | No se detectaron incidencias |
-| Ruta de residuos y conservación | Papel de aluminio y papel de filtro:contenedor asimilables a urbanos |
+| Ruta de residuos y conservación | Papel de aluminio y papel de filtro:contenedor asimilables a urbanos.Caldo BHI sobrante:biológico o infeccioso |
 | Estado de entrega | Entregado |
 
 ---
