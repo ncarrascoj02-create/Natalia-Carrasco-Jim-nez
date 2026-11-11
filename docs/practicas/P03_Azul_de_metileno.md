@@ -146,9 +146,9 @@ Se espera que en la preparación en fresco se observen los microorganismos en su
 
 | Campo o elemento observado | Aspecto tras la tinción | ¿Qué detalle permite apreciar? | Limitación o duda |
 |---|---|---|---|
-| [Observación 1] | [Completa] | [Completa] | [Completa] |
-| [Observación 2] | [Completa] | [Completa] | [Completa] |
-| [Observación 3] | [Completa] | [Completa] | [Completa] |
+| Observación 1 | Portaobjetos con una gota de muestra teñida intensamente de azul de metileno y cubierta con un cubreobjetos | Permite comprobar el montaje correcto en fresco, el volumen del colorante utilizado y la ausencia de burbujas grandes de la extensión | No permite analizar estructuras celulares ni microorganismos al tratarse de una observación a simple vista, sin microscopio |
+| Observación 2 | Fondo violeta/azulado, con restos orgánicos, destacando resto vegetal con zonas amarillentas y azuladas | Permite diferenciar la morfología externa, contornos de la estructura central y el contraste del fondo respecto a los detritos | Al ser un tinte básico general, no tiene especificidad estricta para definir la especie exacta o determinar si se ha teñido por completo |
+| Observación 3 | Campo superior:muestra en fresco transparente/amarillenta sin contraste | Permite contrastar directamente el aumento estructural del elemento biológico tras aplicar el colorante respecto a la muestra sin teñir | La tinción en masa del fondo dificulta la visualización clarade estructuras bacterianas muy pequeñas por acumulación de precipitado |
 
 ## 11. Comparación con la observación en fresco [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
