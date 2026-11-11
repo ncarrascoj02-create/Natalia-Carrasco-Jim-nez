@@ -175,25 +175,25 @@ Origen del resultado: ejecución propia de la práctica, mediante tinción de un
 
 ![Proceso de tinción](../assets/P03/proceso_de_tincion_01.jpg)
 
-- **Pie de foto:** [Qué se observa: preparación, adición del colorante o colocación del cubreobjetos]
-- **Medida de seguridad o calidad que demuestra:** [Completa]
-- **Autoría y origen:** [Propia / compartida con tu pareja / material docente autorizado]
+- **Pie de foto:** Qué se observa: preparación, adición del colorante o colocación del cubreobjetos.
+- **Medida de seguridad o calidad que demuestra:** La medida de seguridad que se observa en la foto es el uso de guantes de protección durante la manipulación del portaobjetos, la muestra biológica de agua estancada y el colorante fue lleno, lo cual proviene el contacto directo con posibles patógenos.
+- **Autoría y origen:** Propia
 
 ### Imagen 2 — Campo microscópico teñido
 
 ![Campo microscópico teñido](../assets/P03/campo_microscopico_tenido_02.jpg)
 
-- **Pie de foto:** [Qué se observa y con qué aumento o configuración]
-- **Elemento o contraste señalado:** [Describe el elemento de interés]
-- **Origen de la imagen:** [Observación propia / material docente / vídeo; especifica]
+- **Pie de foto:** que se observa: estructuras celulares, restos orgánicos y un organismo microscópico, procedente de una muestra de agua estancada teñida con azul de metileno. Aumento:40x.
+- **Elemento o contraste señalado:** Lo que podemos observar en la imagen es una Bosmina,pulga de agua, presente en la muestra de agua estancada, el cual está siendo apuntado con el manipulador del microscopio. Gracias a la atención de azul de metileno se logra un contraste.
+- **Origen de la imagen:** Observación propia
 
 ### Imagen 3 — Comparación o resultado final
 
 ![Comparación o resultado final](../assets/P03/comparacion_o_resultado_final_03.jpg)
 
-- **Pie de foto:** [Qué diferencia entre P02 y P03 o qué conclusión técnica evidencia]
-- **Relación con la interpretación:** [Explica cómo esta evidencia respalda o limita tu resultado]
-- **Autoría y origen:** [Completa]
+- **Pie de foto:** Diferencia entre P02 y P03.Conclusión técnica evidencia:demuestra la necesidad de utilizar colorantes vitales en muestra acuosas transparentes para incrementar el contraste óptico y poder identificar morfologías celulares.
+- **Relación con la interpretación:** Como respalda:contrasta la muestra en fresco sin teñir frente a la teñida con azul de metileno.Demuestra que el azul de metileno es indispensable,ya que la muestra sin teñir carece del contraste necesario para visualizar la morfología del organismo.Como limita:el exceso de colorante o la precipitación en el fondo pueden enmascarar estructuras finas o microorganismos adyacente de menor tamaño.
+- **Autoría y origen:** Autoría propia,capturada directamente durante la observación microscópica.
 
 ## 13. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
