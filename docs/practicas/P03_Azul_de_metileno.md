@@ -140,7 +140,7 @@ Se espera que en la preparación en fresco se observen los microorganismos en su
 | Preparación sin burbujas o artefactos limitantes | Se observo la preparación,comprobando que no hubiera burbujas que dificulten la visión(si que había alguna pero pequeña) | Sí | Las burbujas pueden dificultar la observación de la muestra |
 | Contraste suficiente para la observación | La muestra presentó una coloración azul que facilitó distinguir algunas estructuras | Sí | El azul de metileno aumenta el contraste y facilita la observación microscópica |
 | Enfoque e iluminación adecuados | Se ajusto el enfoque y la iluminación del microscopio hasta conseguir una imagen clara | Sí | Permite observar mejor las estructuras presentes en la muestra |
-| Gestión correcta de residuos y limpieza | Se limpiaron los materiales y se eliminaron los residuos siguiendo las normas del laboratorio | Sí | Evita contaminaciones y mantiene el puesto d triscado limpio y seguro |
+| Gestión correcta de residuos y limpieza | Se limpiaron los materiales y se eliminaron los residuos siguiendo las normas del laboratorio | Sí | Evita contaminaciones y mantiene el puesto de trabajo limpio y seguro |
 
 ### 10.2 Registro de hallazgos
 
@@ -243,19 +243,19 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | Individual |
 | Modalidad y origen de la muestra o evidencia | Modalidad:ejecución propia de la práctica.Origen de la muestra:muestra de agua estancada recogida para su observación microscópica.Tipo de preparación:preparación con tinción vital mediante azul de metileno.Evidencia:observación directa al microscópio de la muestra teñida |
 | Reactivo y lote o referencia | Azul de metileno(no hay lote ni referencia) |
-| Controles | Reactivo correctamente identificado y apto para uso|Evidencia observada:Se comprobó que el reactivo era azul de metileno y que estaba en condiciones de uso|Resultado válido:Sí|Justificación:El color estaba correctamente identificado y permitió realizar la tinción |
-| Preparación sin burbujas o artefactos limitantes |Evidencia observada:Se observo la preparación,comprobando que no hubiera burbujas que dificulten la visión(si que había alguna pero pequeña) |Resultado válido:Sí |Justificación:Las burbujas pueden dificultar la observación de la muestra |
-| Contraste suficiente para la observación |Evidencia observada:La muestra presentó una coloración azul que facilitó distinguir algunas estructuras |Resultado válido:Sí |Justificación:El azul de metileno aumenta el contraste y facilita la observación microscópica |
-| Enfoque e iluminación adecuados |Evidencia observada:Se ajusto el enfoque y la iluminación del microscopio hasta conseguir una imagen clara |Resultado válido:Sí Justificación:Permite observar mejor las estructuras presentes en la muestra |
-| Gestión correcta de residuos y limpieza |Evidencia observada:Se limpiaron los materiales y se eliminaron los residuos siguiendo las normas del laboratorio |Resultado valido:Sí |Justificación:Evita contaminaciones y mantiene el puesto d triscado limpio y seguro |
-| Resultado | Contraste | Bajo,se observaron los microorganismos con poco contraste | Mayor contraste gracias a la coloración azul | El colorante facilita distinguir las estructuras de la muestra |
-| Morfología o detalles visibles | Se apreciaba la forma general de algunos microorganismos | Se podían distinguir mejor algunas formas y detalles celulares | La tinción mejora la visualización de las estrucuras |
+| Controles | Reactivo correctamente identificado y apto para uso.Evidencia observada:Se comprobó que el reactivo era azul de metileno y que estaba en condiciones de uso.Resultado válido:Sí.Justificación:El color estaba correctamente identificado y permitió realizar la tinción.
+ Preparación sin burbujas o artefactos limitantes.Evidencia observada:Se observo la preparación,comprobando que no hubiera burbujas que dificulten la visión(si que había alguna pero pequeña).Resultado válido:Sí,Justificación:Las burbujas pueden dificultar la observación de la muestra.
+Contraste suficiente para la observación.Evidencia observada:La muestra presentó una coloración azul que facilitó distinguir algunas estructuras.Resultado válido:Sí.Justificación:El azul de metileno aumenta el contraste y facilita la observación microscópica.
+Enfoque e iluminación adecuados.Evidencia observada:Se ajusto el enfoque y la iluminación del microscopio hasta conseguir una imagen clara.Resultado válido:Sí.Justificación:Permite observar mejor las estructuras presentes en la muestr.
+Gestión correcta de residuos y limpieza.Evidencia observada:Se limpiaron los materiales y se eliminaron los residuos siguiendo las normas del laboratorio.Resultado valido:Sí.Justificación:Evita contaminaciones y mantiene el puesto d triscado limpio y seguro.
+| Resultado | Contraste:bajo,se observaron los microorganismos con poco contraste.Mayor contraste gracias a la coloración azul.El colorante facilita distinguir las estructuras de la muestra |
+| Morfología o detalles visibles | Se apreciaba la forma general de algunos microorganismos.Se podían distinguir mejor algunas formas y detalles celulares.La tinción mejora la visualización de las estructuras |
 | Movimiento observado | Se podrán observar movimientos de algún microorganismo | Los movimientos eran difíciles de observar o no se apreciaban | La tinción puede alterar o impedir el movimiento natural de los microorganismos |
-| Facilidad de observación | Era más difícil gobernarte algunas estructuras por la falta de contraste | Resultaba más fácil identificar formas por la coloración | El azul de metileno facilita la observación microscópica |
+| Facilidad de observación | Era más difícil observar algunas estructuras por la falta de contraste | Resultaba más fácil identificar formas por la coloración | El azul de metileno facilita la observación microscópica |
 | Limitaciones | El bajo contraste dificultaba observar algunos detalles | La tinción podía alterar las estructuras y dificultar la observación de movimientos | Cada técnica tiene sus ventajas y limitaciones |
-| Interpretación | [Resume o enlaza al apartado 14] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 13] |
-| Ruta de residuos aplicada | [Completa] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Interpretación | La tinción con azul de metileno mejoró el contraste respecto a la muestra sin teñir,permitiendo observar mejor la forma del organismo y algunos detalles internos.Sin embargo,el exceso de colorante y. las partículas teñidas pudieron dificultar la observación.La tinción no permite identificarlo definitivamente |
+| Incidencias y acciones correctoras |Dificultad para identificar el organismo | Falta de detalles suficientes para reconocerlo | Mejorar el enfoque y observar con distintos aumentos | Sí,limitó su identificación |
+| Ruta de residuos aplicada | Se limpiaron los materiales y se eliminaron los residuos siguiendo las normas del laboratorio.El portaobjetos y cubreobjetos se eliminas en el contenedor amarillo.La pipeta pasteur y papel de filtro al contenedor asimilables a urbano |
+| Estado de entrega | Entregado |
 
 ---
