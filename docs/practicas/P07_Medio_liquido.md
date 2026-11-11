@@ -139,6 +139,7 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 |---|---|
 | Papel de filtro y papel de aluminio | Residuo urbano/asimilable a urbano |
 |Caldo BHI sobrante | Biológico o infeccioso |
+
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 9.1 Registro de observaciones y cálculos
@@ -216,7 +217,7 @@ Puedes añadir hasta tres evidencias más si son pertinentes; no fabriques imág
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| “No se detectaron incidencias” | Completa | Completa | Sí / No; explica |
+| “No se detectaron incidencias” |  |  |  |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
