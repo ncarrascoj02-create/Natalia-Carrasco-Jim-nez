@@ -183,7 +183,7 @@ Origen del resultado: ejecución propia de la práctica, mediante tinción de un
 
 ![Campo microscópico teñido](../assets/P03/campo_microscopico_tenido_02.jpg)
 
-- **Pie de foto:** que se observa: estructuras celulares, restos orgánicos y un organismo microscópico, procedente de una muestra de agua estancada teñida con azul de metileno. Aumento:40x.
+- **Pie de foto:** Que se observa:Estructuras celulares, restos orgánicos y un organismo microscópico, procedente de una muestra de agua estancada teñida con azul de metileno. Aumento:40x.
 - **Elemento o contraste señalado:** Lo que podemos observar en la imagen es una Bosmina,pulga de agua, presente en la muestra de agua estancada, el cual está siendo apuntado con el manipulador del microscopio. Gracias a la atención de azul de metileno se logra un contraste.
 - **Origen de la imagen:** Observación propia
 
