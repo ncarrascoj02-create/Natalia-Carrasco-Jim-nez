@@ -164,7 +164,8 @@ Se espera que en la preparación en fresco se observen los microorganismos en su
 
 Resume qué aportó la tinción a la observación y qué información debe interpretarse con cautela. Indica expresamente si el resultado procede de una ejecución propia, una preparación docente o material audiovisual.
 
-[Escribe aquí el resultado principal.]
+La tinción con azul de metileno permitió mejorar el contraste y facilitar la observación de las estructuras presentes en la muestra de agua estancada.Se distinguió en elaboración de forma ovalada y aparentes partículas y restos.Sin embargo,la coloración puede alterar el aspecto natural de los organismos, por lo que no se puede identificar con seguridad su especie (fuente creemos que puede ser una bosmina,pulga de agua).
+Origen del resultado: ejecución propia de la práctica, mediante tinción de una muestra de agua estancada, con azul de metileno y su posterior observación al microscopio.
 
 ## 12. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -198,19 +199,19 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| Dificultad para identificar el organismo | Falta de detalles suficientes para reconocerlo | Mejorar el enfoque y observar con distintos aumentos | Sí,limitó su identificación |
 
 ## 14. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta los resultados de la tinción usando los controles de calidad, las observaciones y la comparación con P02. Explica qué información se hizo más visible, qué posible artefacto o limitación introdujo el colorante y por qué la tinción no permite por sí sola una identificación definitiva.
 
-[Escribe aquí tu interpretación técnica.]
+La tinción con azul de metileno mejoró el contraste respecto a la muestra sin teñir,permitiendo observar mejor la forma del organismo y algunos detalles internos.Sin embargo,el exceso de colorante y. las partículas teñidas pudieron dificultar la observación.La tinción no permite identificarlo definitivamente.
 
 ## 15. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de preparar, observar y comparar una tinción vital con azul de metileno. Sustenta tu conclusión con evidencias concretas y menciona una limitación de la práctica o del material utilizado.
 
-[Escribe aquí tu conclusión.]
+Se alcanzó el objetivo de preparar, observar y comparar la muestra teñida con azul de metileno. Se comprobó que la tinción mejoró el contraste y permitió distinguir mejor la forma del organismo y algunos detalles internos respecto a la preparación fresco. Como limitación, el exceso de colorante y la acumulación de partículas dificultaron parcialmente la observación y la identificación del organismo.
 
 ## 16. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -218,19 +219,19 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué paso de la tinción exigió mayor control para obtener una preparación interpretable y segura, y cómo verificaste que se había realizado correctamente?
 
-   [Respuesta del alumnado]
+   El paso que exigió mayor control fue añadir el azul de metileno de forma uniforme, evitando el exceso de colorante. Se comprobó que se había realizado más o menos correctamente, observando la preparación ya teñida al microscopio y pudimos observar que nos permitía distinguir mejor las estructuras. Durante el proceso se utilizaron guantes para trabajar de forma segura.
 
 2. **Interpretación:** ¿Qué característica pudo observarse mejor tras añadir azul de metileno y qué cambio podría ser consecuencia del colorante, de una burbuja o de un artefacto?
 
-   [Respuesta del alumnado]
+   Tras añadir azul de metileno, se observó mejor la forma del organismo, su contorno y algunos detalles internos. Sin embargo, la zona demasiado oscura o las partículas teñidas podrían deberse al exceso de decolorante. Las burbujas o los artefactos de la aprobación también podrían confundirse con estructuras del organismo en la práctica anterior.
 
 3. **Conclusiones:** A partir de la comparación con P02, ¿en qué situación elegirías una preparación en fresco y en cuál una tinción vital? Justifica tu decisión con tus resultados.
 
-   [Respuesta del alumnado]
+   Elegiría una preparación en fresco cuando quisiera observar los movimientos y el aspecto natural de los organismos, como la práctica anterior. En cambio, utilizaría una tinción vital con azul de metileno, cuando necesitará mejorar el contraste y distinguir mejor las formas y estructuras. En nuestra práctica, la tinción facilitó la observación. 
 
 4. **Aprendizaje y transferencia:** ¿Qué medida de seguridad química o de calidad aplicarás de forma sistemática en futuras tinciones, y cómo evitará un error técnico o de interpretación?
 
-   [Respuesta del alumnado]
+ Utilizaré siempre guantes y controlaré la cantidad de color añadido,siguiendo el procedimiento establecido. Así evitaré, contaminaciones, exceso de tinción y errores que puedan dificultar la observación e interpretación de la muestra.
 
 ## 17. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -240,10 +241,18 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Fecha | 01/10/2026 |
 | UD / RA / CE | `UD2 / RA02 / CE02.a–CE02.g` |
 | Agrupamiento | Individual |
-| Modalidad y origen de la muestra o evidencia | [Completa] |
+| Modalidad y origen de la muestra o evidencia | Modalidad:ejecución propia de la práctica.Origen de la muestra:muestra de agua estancada recogida para su observación microscópica.Tipo de preparación:preparación con tinción vital mediante azul de metileno.Evidencia:observación directa al microscópio de la muestra teñida |
 | Reactivo y lote o referencia | Azul de metileno(no hay lote ni referencia) |
-| Controles | [Resume o enlaza al apartado 10.1] |
-| Resultado | [Resume o enlaza al apartado 11] |
+| Controles | Reactivo correctamente identificado y apto para uso|Evidencia observada:Se comprobó que el reactivo era azul de metileno y que estaba en condiciones de uso|Resultado válido:Sí|Justificación:El color estaba correctamente identificado y permitió realizar la tinción |
+| Preparación sin burbujas o artefactos limitantes |Evidencia observada:Se observo la preparación,comprobando que no hubiera burbujas que dificulten la visión(si que había alguna pero pequeña) |Resultado válido:Sí |Justificación:Las burbujas pueden dificultar la observación de la muestra |
+| Contraste suficiente para la observación |Evidencia observada:La muestra presentó una coloración azul que facilitó distinguir algunas estructuras |Resultado válido:Sí |Justificación:El azul de metileno aumenta el contraste y facilita la observación microscópica |
+| Enfoque e iluminación adecuados |Evidencia observada:Se ajusto el enfoque y la iluminación del microscopio hasta conseguir una imagen clara |Resultado válido:Sí Justificación:Permite observar mejor las estructuras presentes en la muestra |
+| Gestión correcta de residuos y limpieza |Evidencia observada:Se limpiaron los materiales y se eliminaron los residuos siguiendo las normas del laboratorio |Resultado valido:Sí |Justificación:Evita contaminaciones y mantiene el puesto d triscado limpio y seguro |
+| Resultado | Contraste | Bajo,se observaron los microorganismos con poco contraste | Mayor contraste gracias a la coloración azul | El colorante facilita distinguir las estructuras de la muestra |
+| Morfología o detalles visibles | Se apreciaba la forma general de algunos microorganismos | Se podían distinguir mejor algunas formas y detalles celulares | La tinción mejora la visualización de las estrucuras |
+| Movimiento observado | Se podrán observar movimientos de algún microorganismo | Los movimientos eran difíciles de observar o no se apreciaban | La tinción puede alterar o impedir el movimiento natural de los microorganismos |
+| Facilidad de observación | Era más difícil gobernarte algunas estructuras por la falta de contraste | Resultaba más fácil identificar formas por la coloración | El azul de metileno facilita la observación microscópica |
+| Limitaciones | El bajo contraste dificultaba observar algunos detalles | La tinción podía alterar las estructuras y dificultar la observación de movimientos | Cada técnica tiene sus ventajas y limitaciones |
 | Interpretación | [Resume o enlaza al apartado 14] |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 13] |
 | Ruta de residuos aplicada | [Completa] |
