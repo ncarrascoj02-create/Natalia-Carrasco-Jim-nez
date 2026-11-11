@@ -216,19 +216,19 @@ Puedes añadir hasta tres evidencias más si son pertinentes; no fabriques imág
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| “No se detectaron incidencias” | Completa | Completa | Sí / No; explica |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta si el lote de BHI cumple la dosis de su ficha, la preparación de 50 mL, la dispensación de seis tubos de 8 mL y los criterios de homogeneidad, acondicionamiento, identificación y esterilización previstos. Explica qué evidencia sostiene esa valoración, qué resultado dejarías como pendiente hasta completar el control de esterilidad y por qué un medio aparentemente correcto no garantiza por sí solo su aptitud para uso posterior.
 
-[Escribe aquí tu interpretación técnica.]
+La preparación del lote de BHI se considera satisfactorio. Se prepara 50 ml, siguiendo la dosis indicada, y se dispensaron seis tubos con 8 ml cada uno, utilizando 48 ml dejando 2 ml de margen. El medio presentó un aspecto homogéneo y los tubos quedaron correctamente identificados. Se observó crecimiento bacteriano tras la inoculación, lo que indica que el medio permitió el desarrollo de bacterias,como comprobación final habría que confirmar que no existía contaminación previa y que la esterilización fue correcta. El crecimiento observado es una evidencia favorable,pero no garantiza la calidad microbiológica completa del lote.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 ¿El resultado obtenido y el procedimiento realizado cumplen el objetivo de obtener un medio de cultivo listo para la inoculación y el cultivo de bacterias? Justifica brevemente tu conclusión.
 
-[Escribe aquí tu conclusión.]
+Se considera que se ha cumplido el objetivo de la práctica, ya que se preparó un medio BHI y líquido homogéneo, se repartió correctamente en seis tubos de 8 ml y se realizó su acondicionamiento. Además, fuimos uno de los grupos en el que se observó crecimiento bacteriano tras la inoculación, lo que demuestra que el medio permitió el desarrollo de bacterias y resultó útil para el cultivo.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -236,36 +236,37 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 **1. Procedimiento:** ¿Qué precaución específica tomaste al elegir los tapones o cierres de los tubos antes de introducirlos en el autoclave y qué consecuencias de seguridad habría tenido cerrarlos herméticamente?
 
-   [Respuesta del alumnado]
+   Se comprobó que los tapones estuvieran correctamente colocados, pero sin cerrarlo herméticamente, para permitir la salida del vapor durante la esterilización. Si se hubieran cerrado completamente, la presión podría haber aumentado dentro de los tubos, provocando su rotura o expulsión del tapón y causando quemaduras o accidentes.
 
 **2. Interpretación:** El procedimiento indica que no se debe añadir corrector de pH, pero que podría exigirse su comprobación. Si tuvieras que medir el pH del BHI reconstituido, ¿en qué momento exacto del procedimiento descrito lo harías y por qué sería un error medirlo *después* de que los tubos salgan del autoclave?
 
-   [Respuesta del alumnado]
+Yo mediría el pH una vez disuelto completamente el BHI en agua destilada y antes de repartirlo los tubos y llevarlo al autoclave. Así se comprobaría que el medio tiene el pH adecuado sin alterar su composición. Sería un error medirlo después del autoclave porque el calor y la esterilización pueden modificar ligeramente el pH. Además, abrir los tubos una vez utilizado podría provocar contaminación del medio.
 
 **3. Conclusiones:** Si dentro de unos días observaras que uno de los tubos almacenados presenta turbidez sin haber sido inoculado por nadie, ¿qué fallo en el procedimiento, material o equipo deducirías que ha ocurrido?
 
-   [Respuesta del alumnado]
+   Deduciría que se ha producido una contaminación accidental del medio, posiblemente por una esterilización incorrecta, un tubo o tapón contaminado. La turbidez indicaría un posible crecimiento sin inoculación previa, por lo que ese tubo no sería esto para uso y se debe desechar.
 
 **4. Aprendizaje y transferencia:** Imagina que en un laboratorio real te piden escalar esta preparación para hacer 150 tubos de 8 mL de BHI. ¿Cómo modificarías tus cálculos iniciales de masa y volumen total (incluyendo un margen de seguridad proporcional)?
 
-   [Respuesta del alumnado]
+Para preparar 150 tubos de 8 ml, calcularía primero un volumen total de 1200 ml (150 × 8 ml). Añadiría un margen de seguridad proporcional del 4 %, igual que en esta práctica, por lo que prepararía 1248 ml aproximadamente.
+La cantidad de BHI en polvo también se multiplicaría, siguiendo la dosis indicada en la ficha del fabricante.(En este caso seria 1,85 x 1248,entre 50=46,18g de BHI en polvo y 1.248 ml de agua destilada).Así se garantiza que todos los tubos tienen la concentración correcta y habría suficiente medios para posibles pérdidas durante la dispensación.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P07` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 07/10/2026 |
 | UD / RA / CE | `UD3 / RA03 / CE03.a–CE03.h` |
-| Agrupamiento | [Individual / equipo; especifica] |
-| Medio, dosis y preparación | [BHI: fabricante/referencia, dosis de etiqueta, masa calculada/pesada y preparación de 50 mL] |
-| Dispensación y esterilización | [Seis tubos: volumen dispensado, identificación, ciclo y controles; indica incidencias y modalidad] |
-| Componentes, lotes y caducidades relevantes | [Completa] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos y conservación | [Completa] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Agrupamiento |Equipo; especifica:Diana,Pablo,Cristina Llamazares y Natalia |
+| Medio, dosis y preparación | [BHI:medio.Fabricante/referencia:laboratorio consa S.A.Dosis de etiqueta:37g/L. Masa calculada/pesada:1,85g de BHI en polvo y 50 ml de agua destilada.Preparación:se pesan 1,85g de BHI,se disuleven en 50 ml de agau destilada y se mezcla hasta obtener una solución homogénea. |
+| Dispensación y esterilización | Seis tubos: volumen dispensado:8 ml de medio BHI en cada uno.Identificación:nombre del medio BHI,fecha:07/10/2026,grupo 2.Ciclo:esterilización en autoclave y controles:comprobar el funcionamiento,temperatura:121 grados centrigrados,tiempo:15 minutos y presión.Indica incidencias y modalidad:ninguna incidencia.Preparación del medio de cultivo líquido,distribuido en tubos y esterilización en autoclave. |
+| Componentes, lotes y caducidades relevantes | Referencia:608301. Fecha de caducidad:08/2020 |
+| Controles | Se comprobó la dosis de BHI (37 g/litro) la masa calculada (1,85 g), el volumen preparado (50 ml) y la dispensación de seis tubos de 8 ml. Se registró el ciclo de autoclave (121 °C durante 15 minutos) y se realizó un control visual del aspecto, color y volumen del medio. |
+| Resultado | Se obtuvieron seis tubos con 8 ml de medio BHI cada uno. El medio presentó una aspecto líquido, homogéneo y de color amarillo. La esterilización se realizó en autoclave. Posteriormente, se observó crecimiento bacteriano tras la inoculación |
+| Interpretación | La preparación del lote de BHI se considera satisfactorio. Se prepara 50 ml, siguiendo la dosis indicada, y se dispensaron seis tubos con 8 ml cada uno, utilizando 48 ml dejando 2 ml de margen. El medio presentó un aspecto homogéneo y los tubos quedaron correctamente identificados. Se observó crecimiento bacteriano tras la inoculación, lo que indica que el medio permitió el desarrollo de bacterias,como comprobación final habría que confirmar que no existía contaminación previa y que la esterilización fue correcta. El crecimiento observado es una evidencia favorable,pero no garantiza la calidad microbiológica completa del lote.  |
+| Incidencias y acciones correctoras | No se detectaron incidencias |
+| Ruta de residuos y conservación | Papel de aluminio y papel de filtro:contenedor asimilables a urbanos |
+| Estado de entrega | Entregado |
 
 ---
