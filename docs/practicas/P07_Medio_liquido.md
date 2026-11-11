@@ -259,8 +259,8 @@ La cantidad de BHI en polvo también se multiplicaría, siguiendo la dosis indic
 | Identificador de práctica | `P07` |
 | Fecha | 07/10/2026 |
 | UD / RA / CE | `UD3 / RA03 / CE03.a–CE03.h` |
-| Agrupamiento |Equipo; especifica:Diana,Pablo,Cristina Llamazares y Natalia |
-| Medio, dosis y preparación | [BHI:medio.Fabricante/referencia:laboratorio consa S.A.Dosis de etiqueta:37g/L. Masa calculada/pesada:1,85g de BHI en polvo y 50 ml de agua destilada.Preparación:se pesan 1,85g de BHI,se disuleven en 50 ml de agau destilada y se mezcla hasta obtener una solución homogénea. |
+| Agrupamiento |Equipo;Diana,Pablo,Cristina Llamazares y Natalia |
+| Medio, dosis y preparación | BHI:medio.Fabricante/referencia:laboratorio consa S.A.Dosis de etiqueta:37g/L. Masa calculada/pesada:1,85g de BHI en polvo y 50 ml de agua destilada.Preparación:se pesan 1,85g de BHI,se disuleven en 50 ml de agau destilada y se mezcla hasta obtener una solución homogénea. |
 | Dispensación y esterilización | Seis tubos: volumen dispensado:8 ml de medio BHI en cada uno.Identificación:nombre del medio BHI,fecha:07/10/2026,grupo 2.Ciclo:esterilización en autoclave y controles:comprobar el funcionamiento,temperatura:121 grados centrigrados,tiempo:15 minutos y presión.Indica incidencias y modalidad:ninguna incidencia.Preparación del medio de cultivo líquido,distribuido en tubos y esterilización en autoclave. |
 | Componentes, lotes y caducidades relevantes | Referencia:608301. Fecha de caducidad:08/2020 |
 | Controles | Se comprobó la dosis de BHI (37 g/litro) la masa calculada (1,85 g), el volumen preparado (50 ml) y la dispensación de seis tubos de 8 ml. Se registró el ciclo de autoclave (121 °C durante 15 minutos) y se realizó un control visual del aspecto, color y volumen del medio. |
