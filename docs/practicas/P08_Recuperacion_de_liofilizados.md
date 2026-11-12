@@ -226,7 +226,7 @@ El tubo de BHI presentó crecimiento de Bacillus tras la incubaión, indicando u
 
 ¿En qué medida el procedimiento seguido y el resultado obtenido permitieron alcanzar el objetivo de recuperar la cepa en BHI líquido? Si aplicaste B, valora además si el remanente puede considerarse una reserva fiable. Justifica ambas valoraciones.
 
-[Escribe aquí tu conclusión.]
+El procedimiento realizado siguiendo la ruta B permitió recuperar la cepa de Bacillus en medio BHI,observándose crecimiento tras la incubación.El tubo quedó identificado y se conservó en el frigorífico.El resultado fue satisfactorio,aunque el crecimiento observado no garantiza del todo la pureza del cultivo.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -234,35 +234,35 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué verificaste antes de abrir la ampolla y por qué debe comprobarse que el BHI de P07 es adecuado para esa cepa? Si aplicaste B, ¿cómo evitaste contaminar o dispersar el polvo?
 
-   [Respuesta del alumnado]
+   Antes de abrir la ampolla, se comprueba la identificación de la cepa, el estado del recipiente y la fecha de caducidad. También se verificó que el medio BHI preparado en la práctica anterior, fuera adecuado para el crecimiento de vacíos. Se aplicó la ruta B, trabajando junto al mechero Bunsen y manipulando el liofilizado con cuidado para evitar la dispersión del polvo es posible contaminaciones.
 
 2. **Interpretación:** ¿Qué evidencias permiten valorar crecimiento, viabilidad y pureza, y qué limitación tiene observar solo el aspecto del caldo?
 
-   [Respuesta del alumnado]
+   El crecimiento se evidenció por la turbidez del caldo BHI y la presencia de crecimiento de Bacillus. Esto sugiere que la bacteria mantiene su viabilidad. Sin embargo, observar únicamente el aspecto al caldo no permite confirmar la identidad ni la póliza del cultivo, ya que podrían existir otros microorganismos. Ahora comprobarlo serían necesarios, controles y pruebas adicionales.
 
 3. **Conclusiones:** ¿Qué decisión profesional tomarías con el resultado y los controles disponibles: continuar, repetir, detener o escalar? Explica el criterio aplicado.
 
-   [Respuesta del alumnado]
+   La decisión sería continuar con la conservación del cultivo, ya que se observó crecimiento de Bacillus en el caldo BHI. Sin embargo, antes de confirmar la pureza y aceptar definitivamente el resultado, sería necesario realizar controles adicionales. Si se aparecieran, anomalías o contaminación, se debería de tener procedimiento y comunicarlo al profesor.
 
 4. **Aprendizaje y transferencia:** ¿Qué principio de trazabilidad o bioseguridad aplicarás cuando trabajes con material conservado, medios de cultivo o resultados de identificación en prácticas posteriores?
 
-   [Respuesta del alumnado]
+   Aplicaré una correcta, identificación y trazabilidad de los tubos, anotando, la cepa, el medio de cultivo,y el grupo. Mantendré las medidas de asepsia y utilizaré los equipos de protección para evitar contaminaciones y garantizar resultados fiables en otras prácticas.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P08` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 28/10/2026 |
 | UD / RA / CE | `UD3 / RA03-RA04 / CE03.d–CE03.h; CE04.a–CE04.e` |
-| Agrupamiento | [Individual / pareja / equipo; especifica] |
-| Modalidad y origen de la evidencia | [Completa] |
+| Agrupamiento | En pareja;con Cristina Llamazares Santiago |
+| Modalidad y origen de la evidencia | Ejecución real supervisada, ruta B  |
 | Referencia autorizada de protocolo o caso | [Completa] |
 | Controles | [Resume los controles aplicados y sus evidencias, si procede] |
 | Resultado | [Resume o enlaza al apartado 9.1] |
-| Interpretación | [Resume o enlaza al apartado 12] |
+| Interpretación | El tubo de BHI presentó crecimiento de Bacillus tras la incubaión, indicando un resultado positivo y sugiriendo viabilidad del microorganismo. La trazabilidad se mantuvo mediante la identificación y registro del tubo. Sin embargo, el crecimiento no confirma la pureza del cultivo. |
 | Incidencias, medidas y escalado | [Resume o enlaza al apartado 11] |
 | Ruta de residuos o devolución del material | [Completa] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Estado de entrega | Entregado |
 
 ---
