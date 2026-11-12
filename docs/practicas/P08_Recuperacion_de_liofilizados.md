@@ -206,7 +206,7 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 
 ![Registro de lectura del tubo y controles autorizados](../assets/P08/lectura_y_controles_06.jpg)
 
-- **Pie de foto:** tubo de ensayo con medio BHI inoculado con Bacillus, en el que se observa turbidez tras el periódo de incubación, compatible con crecimiento microbiano.
+- **Pie de foto:** Tubo de ensayo con medio BHI inoculado con Bacillus, en el que se observa turbidez tras el periódo de incubación, compatible con crecimiento microbiano.
 - **Relación con la interpretación:** La turbidez observada permite concluir que hubo crecimiento microbiano en el caldo BHI. Sin embargo, queda pendiente confirmar la identidad y pureza del cultivo mediante pruebas específicas, ya que el aspecto del caldo por si solo no es suficiente.
 - **Autoría y origen:** Fotografía realizada durante la práctica.Muestra el resultado de la incubación del tubo con medio BHI inoculado con Bacillus.
 
