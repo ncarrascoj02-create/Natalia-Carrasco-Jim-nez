@@ -126,7 +126,7 @@ Esta alternativa resulta útil si se quiere reservar parte del liófilo seco par
 - **Grupo:** Laboratorio Clínico y Biomédico
 - **Pareja o equipo, si procede:** En pareja,Cristina Llamazares Santiago
 - **Rol o tarea principal que realizaste:** Tuvimos que sembrar 2 tubos,entonces uno lo hizo mi compañera y otro yo.Consistía en sembrar una pequeña cantidad de polvo en el medio de cultivo contenido en el tubo.
-- **Modalidad y ruta realmente realizadas:** [Ejecución real supervisada, ruta A o B / demostración parcial / práctica detenida antes de abrir; especifica]
+- **Modalidad y ruta realmente realizadas:** Ejecución real supervisada, ruta B / demostración parcial / práctica detenida antes de abrir; especifica]
 - **Referencia de vial, registro o caso docente:** [Completa con el código autorizado; no incluyas datos sensibles]
 - **Responsable que autorizó y supervisó la ejecución:** [Completa]
 
