@@ -126,9 +126,9 @@ Esta alternativa resulta útil si se quiere reservar parte del liófilo seco par
 - **Grupo:** Laboratorio Clínico y Biomédico
 - **Pareja o equipo, si procede:** En pareja,Cristina Llamazares Santiago
 - **Rol o tarea principal que realizaste:** Tuvimos que sembrar 2 tubos,entonces uno lo hizo mi compañera y otro yo.Consistía en sembrar una pequeña cantidad de polvo en el medio de cultivo contenido en el tubo.
-- **Modalidad y ruta realmente realizadas:** Ejecución real supervisada, ruta B / demostración parcial / práctica detenida antes de abrir; especifica]
-- **Referencia de vial, registro o caso docente:** [Completa con el código autorizado; no incluyas datos sensibles]
-- **Responsable que autorizó y supervisó la ejecución:** [Completa]
+- **Modalidad y ruta realmente realizadas:** Ejecución real supervisada, ruta B 
+- **Referencia de vial, registro o caso docente:** Bacuillus,CECT 40.
+- **Responsable que autorizó y supervisó la ejecución:** Profesor de laboratorio.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -138,13 +138,13 @@ Enumera los recursos reales: incluye el tubo de BHI de 8 mL de P07 y el material
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | Asa de siembra,pinzas y gradilla |
+| Equipos | Mechero Bunsen |
+| Reactivos/materiales | Tubos de ensayo con medio de cultivo y tubo con el microorganismo liofilizado  |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Papel utilizado para limpiar la zona de trabajo sin contaminación biológica | Urbanos o asimilables a los urbanos |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -154,9 +154,9 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Identifica el sistema de contención y la incubadora; anota los parámetros reales y su fuente: ficha de cepa o protocolo local] |
-| Características del producto o resultado final | [Indica la ruta A/B, el crecimiento observado y, para B, cómo quedó el remanente y dónde se almacenó; anota tiempos y límites. No afirmes pureza sin control] |
+| Cálculos (si procede) | En esta práctica no tuvimos que realizar ningún cálculo |
+| Configuración de equipos (si procede) | Sistema de contención:zona de trabajo aséptica alrededor del mechero Bunsen.Equipo de incubaión:incubadora del laboratorio.Temperatura:la temperatura real programada en la incubadora.Tiempo de incubación:el tiempo establecido en el protocolo.Fuente de los parámetros:protocolo local del laboratorio y ficha de la cepa.|
+| Características del producto o resultado final | Se realizó la recuperación del microorganismo liofilizado siguiendo la ruta B. Después de la siembra, los tubos se introdujeron en la incubadora para favorecer el crecimiento microbiano. Se observó crecimiento de Bacillus.Una vez obtenido el crecimiento, los tubos se trasladaron al frigorífico para su conservación. El resultado fue satisfactorio, ya que se observó crecimiento bacteriano. El tiempo y la temperatura de incubación fueron 24h a 37 grados centígrados.No se pueden confirmar la pureza del cultivo sin realizar controles adicionales. |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -214,13 +214,13 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora, decisión de parada o escalado | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias |  |  |  |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta la trazabilidad y el resultado del tubo de BHI a partir de los registros y controles disponibles. Distingue crecimiento observado, viabilidad confirmada y pureza; explica cómo una desviación, ausencia de crecimiento o dato no disponible cambia la decisión profesional.
 
-[Escribe aquí tu interpretación técnica.]
+El tubo de BHI presentó crecimiento de Bacillus tras la incubaión, indicando un resultado positivo y sugiriendo viabilidad del microorganismo. La trazabilidad se mantuvo mediante la identificación y registro del tubo. Sin embargo, el crecimiento no confirma la pureza del cultivo.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
