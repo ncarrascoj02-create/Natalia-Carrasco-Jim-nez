@@ -166,49 +166,49 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 
 ![Verificación previa y trazabilidad de la cepa, sin datos identificables](../assets/P08/verificacion_y_trazabilidad_01.jpg)
 
-- **Pie de foto:** [Verificación de integridad, identificación y registro, sin mostrar códigos sensibles]
-- **Modalidad de la evidencia:** [Ejecución real / demostración parcial]
-- **Autoría y origen:** [Propia / compartida con tu equipo / material docente autorizado]
+- **Pie de foto:** Verificación de integridad, identificación y registro, sin mostrar códigos sensibles
+- **Modalidad de la evidencia:** Ejecución real 
+- **Autoría y origen:** Propia / compartida con tu equipo
 
 ### Imagen 2 — Material preparado: BHI de P07
 
 ![Tubo de caldo BHI preparado en P07 y material dispuesto antes de la práctica](../assets/P08/bhi_p07_y_material_02.jpg)
 
-- **Pie de foto:** [Tubo de BHI de P07 y material dispuesto antes de abrir la ampolla]
-- **Control de seguridad asociado:** [Verificación previa del medio y del puesto]
-- **Origen de la imagen:** [Propia / demostración docente; especifica]
+- **Pie de foto:** Tubo de BHI de P07 y material dispuesto antes de abrir la ampolla
+- **Control de seguridad asociado:** Verificación previa del medio y del puesto
+- **Origen de la imagen:** Propia / demostración docente; especifica
 
 ### Imagen 3 — Preparación del área de trabajo
 
 ![Área de trabajo y sistema de contención preparados según el protocolo local](../assets/P08/area_de_trabajo_preparada_03.jpg)
 
-- **Pie de foto:** [Sistema de contención y EPI, sin mostrar manipulación si la fotografía no está autorizada]
-- **Control de seguridad asociado:** [Completa]
-- **Autoría y origen:** [Completa]
+- **Pie de foto:** Preparación del material de laboratorio,istema de contención y EPI, utilizados para la recuperación de microorganismos liofilizados.
+- **Control de seguridad asociado:** Se comprobó el uso de bata y guantes. Se trabajó junto al mechero Bunsen para mantener condiciones asépticas, evitando contaminaciones y la dispersión del material utilizado. Se siguieron las normas de bioseguridad y gestión de residuos del laboratorio.
+- **Autoría y origen:** Fotografía realizada durante la práctica.Material y preparación correspondiente a la práctica.
 
 ### Imagen 4 — Rehidratación o toma de polvo y cierre secundario
 
 ![Material cerrado tras la rehidratación de A o la toma de polvo y cierre secundario de B, si está autorizado](../assets/P08/rehidratacion_o_reserva_04.jpg)
 
-- **Pie de foto:** [Indica ruta A o B; fotografía solo después de cerrar la operación y sin interrumpir la técnica]
-- **Modalidad y momento:** [Ejecución real / registro docente autorizado]
-- **Autoría y origen:** [Completa]
+- **Pie de foto:** Introducción del microorganismo liofilizado en el tubo con medio de cultivo BHI, mediante el procedimiento recuperación correspondiente a la ruta B.
+- **Modalidad y momento:** Ejecución real 
+- **Autoría y origen:** Fotografía realizada durante la práctica.Corresponde a la siembra de Bacillus en medio BHI mediante la ruta B.
 
 ### Imagen 5 — Tubo inoculado y entrada a incubación
 
 ![Tubo de BHI inoculado, cerrado e identificado sin datos sensibles](../assets/P08/tubo_inoculado_05.jpg)
 
-- **Pie de foto:** [Estado del tubo tras transferir la suspensión y antes de incubarlo]
-- **Parámetros de incubación:** [Referencia al registro, sin inventar valores]
-- **Autoría y origen:** [Completa]
+- **Pie de foto:** Estado del tubo tras transferir la suspensión y antes de incubarlo
+- **Parámetros de incubación:** 24h a 37 grados.
+- **Autoría y origen:** Fotografía realizada durante la práctica.Podemos ver como se meten los tubos puestos en la gradilla dentro de la incubadora.
 
 ### Imagen 6 — Lectura del resultado
 
 ![Registro de lectura del tubo y controles autorizados](../assets/P08/lectura_y_controles_06.jpg)
 
-- **Pie de foto:** [Hallazgo observado y controles disponibles; no atribuyas pureza por aspecto]
-- **Relación con la interpretación:** [Explica qué permite concluir y qué queda pendiente]
-- **Autoría y origen:** [Completa]
+- **Pie de foto:** tubo de ensayo con medio BHI inoculado con Bacillus, en el que se observa turbidez tras el periódo de incubación, compatible con crecimiento microbiano.
+- **Relación con la interpretación:** La turbidez observada permite concluir que hubo crecimiento microbiano en el caldo BHI. Sin embargo, queda pendiente confirmar la identidad y pureza del cultivo mediante pruebas específicas, ya que el aspecto del caldo por si solo no es suficiente.
+- **Autoría y origen:** Fotografía realizada durante la práctica.Muestra el resultado de la incubación del tubo con medio BHI inoculado con Bacillus.
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -257,12 +257,12 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | UD / RA / CE | `UD3 / RA03-RA04 / CE03.d–CE03.h; CE04.a–CE04.e` |
 | Agrupamiento | En pareja;con Cristina Llamazares Santiago |
 | Modalidad y origen de la evidencia | Ejecución real supervisada, ruta B  |
-| Referencia autorizada de protocolo o caso | [Completa] |
-| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
-| Resultado | [Resume o enlaza al apartado 9.1] |
+| Referencia autorizada de protocolo o caso | Protocolo de prácticas del laboratorio para la recuperación de microorganismos liofilizados mediante la ruta B,utilizando medio de cultivo BHI,bajo supervisión del profesor. |
+| Controles |    Se comprobó la identificación de la cepa,el estado del material y la adecuación del medio BHI.Se observó crecimiento de Bacillus tras la incubación,como evidencia del resultado.No se realizaron controles específicos de pureza. |
+| Resultado | se recuperó la cepa de Bacillus mediante la ruta B en caldo BHI. Se observó crecimiento tras la incubación y el tubo se conservó el frigorífico, quedando identificado y registrado.|
 | Interpretación | El tubo de BHI presentó crecimiento de Bacillus tras la incubaión, indicando un resultado positivo y sugiriendo viabilidad del microorganismo. La trazabilidad se mantuvo mediante la identificación y registro del tubo. Sin embargo, el crecimiento no confirma la pureza del cultivo. |
-| Incidencias, medidas y escalado | [Resume o enlaza al apartado 11] |
-| Ruta de residuos o devolución del material | [Completa] |
+| Incidencias, medidas y escalado | No se detectaron incidencias |
+| Ruta de residuos o devolución del material | Papel utilizado para limpiar la zona de trabajo sin contaminación biológica:urbanos o asimilables a los urbanos |  |
 | Estado de entrega | Entregado |
 
 ---
