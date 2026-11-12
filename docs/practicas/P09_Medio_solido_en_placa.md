@@ -249,7 +249,7 @@ La destreza adquirida en el manejo estéril durante el vertido del medio cultivo
 | Controles | Cálculos (si procede) | Transcribe la dosificación del fabricante (g/L) y calcula:Dosis del fabricante:23g.Cálculos:MASA DE POLVO(g)= dosificación indicada (g/l) x 0,125;23 x 0,125= 2,875g.Medición del agua:125ml|
 | Configuración de equipos (si procede) | Marca de balanza:Pocket Scale.Calentamiento en microondas.4 minutos incluido la ebullición.Autoclave:1 hora a 121 grados.Agitación con varilla:2 minutos. |
 | Características del producto o resultado final | Volumen preparado:125 ml, placas obtenidas:4 de 6 que tendríamos que haber rellenado.Aspecto:color amarillento.Gelificación:correcta din grumos.Identificación:correcta,con fecha del día,datos de identificación y nombre del medio de cultivo.Origen de datos:son propios de la práctica y de la etiqueta del fabricante y controles pendientes:ninguno |
-| Resultado |  |
+| Resultado | Se preparó y distribuyó el medio de cultivos sólido en placas de Petri, obteniéndose un medio correctamente solidificado. Las placas se utilizaron posteriormente en otra práctica para realizar la siembra, en la que se observó crecimiento bacteriano. |
 | Interpretación | Interpretación técnica: las placas obtenidas presentan un medio de cultivo de color ámbar y aparentemente homogéneo. Sin embargo, la práctica no cumple completamente los criterios de dispensación, ya que deberíamos haber preparado seis placas en vez de cuatro placas, debido a un reparto incorrecto del medio de cultivo.
 Fórmula : debe comprobarse que el medio se ha preparado con los componentes y las cantidades indicadas.
 Calidad: el medio presenta un aspecto aparentemente adecuado, aunque todavía debemos verificar sus condiciones.
