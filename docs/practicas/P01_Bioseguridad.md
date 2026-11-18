@@ -180,7 +180,7 @@ Mis evidencias demuestran que sé actuar de forma segura y organizada en el labo
 - **Pie de foto:** Se observan dos EPIs:guantes y bata
 - **Autoría y origen:** Propia
 - **Momento del procedimiento:Primero nos hemos lavado las manos y nos hemos puesto los EPIS(bata y guantes).Una vez hecho lo anterior hemos recibido la muestra en la mesa de trabajo,en una bandeja con su papel de filtro.Observamos que estén todos los datos necesarios,el envase es el adecuado y esta en perfectas condiciones.Al abrir el bote es cuando se ha producido un derrame y hemos tenido que limpiarlo y desinfectar.Al finalizar retirada de EPIS y lavado de manos.
-Fotografía:<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/ea3515ce-1308-46dd-956e-2e5bcd7022d9" />
+  <img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/ea3515ce-1308-46dd-956e-2e5bcd7022d9" />
 
 ### Imagen 2 — Recepción correcta de la muestra
 
