@@ -119,7 +119,7 @@ Enumera los materiales y equipos previstos para teñir colonias autorizadas. Inc
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Portaobjetos y colorantes (residuo químico ) [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -129,7 +129,7 @@ Registra la ejecución real o la alternativa asignada. Anota la cepa y colonia c
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [No previstos para la tinción; escribe «No aplica» salvo que las condiciones autorizadas requieran alguno] |
+| Cálculos (si procede) | No previstos para la tinción; «No aplica» |
 | Configuración de equipos (si procede) | [Microscopio, objetivos usados, aceite de inmersión si procede y ajustes relevantes] |
 | Características del producto o resultado final | [Código de cepa/colonia, aspecto del frotis, secuencia y tiempos aplicados, controles, reacción tintorial, morfología y limitaciones] |
 
@@ -234,9 +234,9 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P04` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 25/11/2026 |
 | UD / RA / CE | `UD2 / RA02 / CE02.a–CE02.g` |
-| Agrupamiento | [Individual / pareja; especifica] |
+| Agrupamiento | En pareja; con Cristina Llamazares Santiago |
 | Modalidad y origen del material o evidencia | [Completa] |
 | Kit, reactivos y lotes o referencias | [Completa] |
 | Controles | [Resume los controles aplicados y sus evidencias, si procede] |
