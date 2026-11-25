@@ -96,10 +96,10 @@ La tinción de Gram comprende colorante primario, mordiente, decoloración, cont
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
+- **Nombre y apellidos:** Natalia Carrasco Jiménez
+- **Fecha real de realización:** 25/11/2026
+- **Grupo:** 2º de Laboratorio Clínico y Biomédico
+- **Pareja de trabajo, si procede:** En pareja, con Cristina Llamazares Santiago
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
 - **Modalidad realmente realizada:** [Ejecución real con colonia autorizada / alternativa docente; describe cuál]
 - **Código de cepa y colonia asignada:** [Registra el código docente, medio/origen conocido y fecha de lectura; no inventes datos]
