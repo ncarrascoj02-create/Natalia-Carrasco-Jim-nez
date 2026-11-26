@@ -235,45 +235,63 @@ Incluye fotografías propias de la práctica real solo si su captura está autor
 
 ### Imagen 1 — Cultivo o colonias que se van a sembrar
 
-**Evidencia:** [Inserta aquí la fotografía autorizada de la colonia asignada, sin datos sensibles.]<br>
+**Archivo previsto:** `../assets/P11/cultivo_o_colonia_asignada_01.jpg`
+
+![Cultivo o colonia asignada para la siembra](../assets/P11/cultivo_o_colonia_asignada_01.jpg)
+
 **Pie de foto técnico:** [Describe el cultivo y señala la colonia seleccionada.]<br>
 **Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
 
 ### Imagen 2 — Siembra en estría en superficie inclinada (tubo A)
 
-**Evidencia:** [Inserta aquí la fotografía autorizada de la realización de la estría en el agar inclinado.]<br>
+**Archivo previsto:** `../assets/P11/estria_en_superficie_inclinada_tubo_a_02.jpg`
+
+![Siembra en estría sobre la superficie inclinada del tubo A](../assets/P11/estria_en_superficie_inclinada_tubo_a_02.jpg)
+
 **Pie de foto técnico:** [Describe la trayectoria realizada sobre la superficie.]<br>
 **Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
 
 ### Imagen 3 — Siembra en picadura en tubo recto (tubo B)
 
-**Evidencia:** [Inserta aquí la fotografía autorizada de la realización de la picadura en el medio sólido recto.]<br>
+**Archivo previsto:** `../assets/P11/picadura_en_tubo_recto_b_03.jpg`
+
+![Siembra por picadura en el medio sólido recto del tubo B](../assets/P11/picadura_en_tubo_recto_b_03.jpg)
+
 **Pie de foto técnico:** [Describe la trayectoria de entrada y retirada del hilo.]<br>
 **Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
 
 ### Imagen 4 — Siembra en picadura y estría (tubo C)
 
-**Evidencia:** [Inserta aquí la fotografía autorizada de la técnica combinada en el agar inclinado.]<br>
+**Archivo previsto:** `../assets/P11/picadura_y_estria_tubo_c_04.jpg`
+
+![Siembra combinada por picadura y estría en el tubo C](../assets/P11/picadura_y_estria_tubo_c_04.jpg)
+
 **Pie de foto técnico:** [Describe por separado la picadura y la estría superficial.]<br>
 **Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
 
 ### Imagen 5 — Resultado tras incubación de la siembra en estría (tubo A)
 
-**Evidencia:** [Inserta aquí la fotografía autorizada del tubo A tras la incubación indicada.]<br>
+**Archivo previsto:** `../assets/P11/resultado_estria_tubo_a_tras_incubacion_05.jpg`
+
+![Resultado tras incubación de la siembra en estría del tubo A](../assets/P11/resultado_estria_tubo_a_tras_incubacion_05.jpg)
+
 **Pie de foto técnico:** [Describe el crecimiento observado en la superficie inclinada o indica que no se observa.]<br>
-**Qué demuestra y qué no permite concluir:** [Escribe aquí]
 
 ### Imagen 6 — Resultado tras incubación de la siembra en picadura (tubo B)
 
-**Evidencia:** [Inserta aquí la fotografía autorizada del tubo B tras la incubación indicada.]<br>
+**Archivo previsto:** `../assets/P11/resultado_picadura_tubo_b_tras_incubacion_06.jpg`
+
+![Resultado tras incubación de la siembra por picadura del tubo B](../assets/P11/resultado_picadura_tubo_b_tras_incubacion_06.jpg)
+
 **Pie de foto técnico:** [Describe el crecimiento observado en la trayectoria de picadura o indica que no se observa.]<br>
-**Qué demuestra y qué no permite concluir:** [Escribe aquí]
 
 ### Imagen 7 — Resultado tras incubación de la siembra en picadura y estría (tubo C)
 
-**Evidencia:** [Inserta aquí la fotografía autorizada del tubo C tras la incubación indicada.]<br>
+**Archivo previsto:** `../assets/P11/resultado_picadura_y_estria_tubo_c_tras_incubacion_07.jpg`
+
+![Resultado tras incubación de la siembra combinada por picadura y estría del tubo C](../assets/P11/resultado_picadura_y_estria_tubo_c_tras_incubacion_07.jpg)
+
 **Pie de foto técnico:** [Describe por separado el crecimiento en profundidad y en la superficie inclinada, o indica que no se observa.]<br>
-**Qué demuestra y qué no permite concluir:** [Escribe aquí]
 
 ---
 
